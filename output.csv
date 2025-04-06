@@ -1,0 +1,1401 @@
+SIMULATION BEGINS...
+Agent DT0 deposits $108.00 into JA-2. (+) New Balance: $108.00 Transaction #1
+Agent DT1 deposits $196.00 into JA-1. (+) New Balance: $196.00 Transaction #2
+Agent DT2 deposits $486.00 into JA-2. (+) New Balance: $594.00 Transaction #3
+Agent DT3 deposits $402.00 into JA-2. (+) New Balance: $996.00 Transaction #4
+Agent DT4 deposits $110.00 into JA-2. (+) New Balance: $1106.00 Transaction #5
+Agent WT0 withdraws $29.00 from JA-1. (-) New Balance: $167.00 Transaction #6
+Agent WT1 withdraws $91.00 from JA-2. (-) New Balance: $1015.00 Transaction #7
+Agent WT2 withdraws $40.00 from JA-2. (-) New Balance: $975.00 Transaction #8
+Agent WT3 withdraws $2.00 from JA-2. (-) New Balance: $973.00 Transaction #9
+Agent WT4 withdraws $33.00 from JA-2. (-) New Balance: $940.00 Transaction #10
+Agent WT5 withdraws $49.00 from JA-1. (-) New Balance: $118.00 Transaction #11
+Agent WT6 withdraws $70.00 from JA-2. (-) New Balance: $870.00 Transaction #12
+Agent WT7 withdraws $57.00 from JA-2. (-) New Balance: $813.00 Transaction #13
+Agent WT8 withdraws $97.00 from JA-2. (-) New Balance: $716.00 Transaction #14
+Agent WT9 withdraws $32.00 from JA-2. (-) New Balance: $684.00 Transaction #15
+TRANSFER --> Agent TR0 transferring $41.00 from JA-2 to JA-1 -- JA-2 Balance: $643.00, JA-1 Balance: $159.00 Transaction #16
+TRANSFER --> Agent TR1 transferring $46.00 from JA-1 to JA-2 -- JA-1 Balance: $113.00, JA-2 Balance: $689.00 Transaction #17
+****************************************************************************************************
+INTERNAL BANK AUDIT BEGINNING...
+	The total number of transactions since the last Internal Audit: 18
+	INTERNAL AUDITOR FINDS CURRENT BALANCE FOR JA-1 TO BE: $113.00
+	INTERNAL AUDITOR FINDS CURRENT BALANCE FOR JA-2 TO BE: $689.00
+INTERNAL BANK AUDIT COMPLETED...
+****************************************************************************************************
+
+****************************************************************************************************
+
+UNITED STATES DEPARTMENT OF TREASURY - BANK AUDIT BEGINNING...
+	The total number of transactions since the last Internal Audit: 19
+	TREASURY DEPT AUDITOR FINDS CURRENT BALANCE FOR JA-1 TO BE: $113.00
+	TREASURY DEPT AUDITOR FINDS CURRENT BALANCE FOR JA-2 TO BE: $689.00
+	Treasury reports the total balance across all accounts is: $802.00
+UNITED STATES DEPARTMENT OF TREASURY - BANK AUDIT COMPLETED...
+
+****************************************************************************************************
+
+* * * Flagged Transaction * * * Agent DT2 made a deposit over $450 USD - See Flagged Transaction Log
+* * * Flagged Transaction * * * Agent WT8 made a withdrawal over $90 USD - See Flagged Transaction Log
+* * * Flagged Transaction * * * Agent WT1 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT7 withdraws $57.00 from JA-2. (-) New Balance: $632.00 Transaction #20
+Agent WT2 withdraws $8.00 from JA-2. (-) New Balance: $624.00 Transaction #21
+Agent WT3 withdraws $39.00 from JA-2. (-) New Balance: $585.00 Transaction #22
+Agent WT6 withdraws $81.00 from JA-2. (-) New Balance: $504.00 Transaction #23
+Agent WT4 withdraws $62.00 from JA-1. (-) New Balance: $51.00 Transaction #24
+Agent WT5 withdraws $32.00 from JA-1. (-) New Balance: $19.00 Transaction #25
+Agent DT3 deposits $21.00 into JA-2. (+) New Balance: $525.00 Transaction #26
+Agent WT2 withdraws $77.00 from JA-2. (-) New Balance: $448.00 Transaction #27
+Agent WT9 attempts to withdraw $91.00 from JA-1 (****) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!! Balance: $19.00
+Agent WT0 withdraws $6.00 from JA-1. (-) New Balance: $13.00 Transaction #28
+Agent WT3 withdraws $35.00 from JA-2. (-) New Balance: $413.00 Transaction #29
+Agent DT4 deposits $217.00 into JA-1. (+) New Balance: $230.00 Transaction #30
+Agent WT2 withdraws $64.00 from JA-1. (-) New Balance: $166.00 Transaction #31
+Agent WT8 withdraws $72.00 from JA-1. (-) New Balance: $94.00 Transaction #32
+Agent DT3 deposits $77.00 into JA-2. (+) New Balance: $490.00 Transaction #33
+Agent DT2 deposits $466.00 into JA-2. (+) New Balance: $956.00 Transaction #34
+* * * Flagged Transaction * * * Agent DT2 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT3 withdraws $23.00 from JA-1. (-) New Balance: $71.00 Transaction #35
+Agent WT4 withdraws $50.00 from JA-1. (-) New Balance: $21.00 Transaction #36
+Agent DT4 deposits $561.00 into JA-1. (+) New Balance: $582.00 Transaction #37
+* * * Flagged Transaction * * * Agent DT4 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT6 withdraws $42.00 from JA-1. (-) New Balance: $540.00 Transaction #38
+Agent WT5 withdraws $66.00 from JA-1. (-) New Balance: $474.00 Transaction #39
+Agent WT7 withdraws $89.00 from JA-1. (-) New Balance: $385.00 Transaction #40
+Agent WT3 withdraws $98.00 from JA-1. (-) New Balance: $287.00 Transaction #41
+* * * Flagged Transaction * * * Agent WT3 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT1 withdraws $16.00 from JA-1. (-) New Balance: $271.00 Transaction #42
+Agent WT8 withdraws $61.00 from JA-2. (-) New Balance: $895.00 Transaction #43
+Agent WT0 withdraws $32.00 from JA-2. (-) New Balance: $863.00 Transaction #44
+Agent WT9 withdraws $31.00 from JA-1. (-) New Balance: $240.00 Transaction #45
+Agent DT2 deposits $211.00 into JA-2. (+) New Balance: $1074.00 Transaction #46
+Agent WT2 withdraws $15.00 from JA-1. (-) New Balance: $225.00 Transaction #47
+Agent WT2 withdraws $37.00 from JA-2. (-) New Balance: $1037.00 Transaction #48
+Agent WT6 withdraws $36.00 from JA-2. (-) New Balance: $1001.00 Transaction #49
+Agent DT2 deposits $371.00 into JA-1. (+) New Balance: $596.00 Transaction #50
+Agent WT8 withdraws $71.00 from JA-1. (-) New Balance: $525.00 Transaction #51
+Agent WT9 withdraws $86.00 from JA-1. (-) New Balance: $439.00 Transaction #52
+Agent WT3 withdraws $61.00 from JA-2. (-) New Balance: $940.00 Transaction #53
+Agent WT7 withdraws $40.00 from JA-2. (-) New Balance: $900.00 Transaction #54
+Agent DT0 deposits $541.00 into JA-2. (+) New Balance: $1441.00 Transaction #55
+* * * Flagged Transaction * * * Agent DT0 made a deposit over $450 USD - See Flagged Transaction Log
+Agent DT1 deposits $469.00 into JA-2. (+) New Balance: $1910.00 Transaction #56
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT6 withdraws $31.00 from JA-2. (-) New Balance: $1879.00 Transaction #57
+Agent WT8 withdraws $92.00 from JA-1. (-) New Balance: $347.00 Transaction #58
+* * * Flagged Transaction * * * Agent WT8 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT3 withdraws $27.00 from JA-1. (-) New Balance: $320.00 Transaction #59
+Agent WT4 withdraws $47.00 from JA-2. (-) New Balance: $1832.00 Transaction #60
+Agent WT7 withdraws $93.00 from JA-2. (-) New Balance: $1739.00 Transaction #61
+Agent WT0 withdraws $51.00 from JA-1. (-) New Balance: $269.00 Transaction #62
+* * * Flagged Transaction * * * Agent WT7 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT4 withdraws $34.00 from JA-1. (-) New Balance: $235.00 Transaction #63
+Agent DT0 deposits $445.00 into JA-2. (+) New Balance: $2184.00 Transaction #64
+Agent DT1 deposits $27.00 into JA-2. (+) New Balance: $2211.00 Transaction #65
+Agent WT2 withdraws $34.00 from JA-2. (-) New Balance: $2177.00 Transaction #66
+Agent WT5 withdraws $97.00 from JA-2. (-) New Balance: $2080.00 Transaction #67
+* * * Flagged Transaction * * * Agent WT5 made a withdrawal over $90 USD - See Flagged Transaction Log
+TRANSFER --> Agent TR1 transferring $20.00 from JA-2 to JA-1 -- JA-2 Balance: $2060.00, JA-1 Balance: $255.00 Transaction #68
+Agent WT1 withdraws $70.00 from JA-1. (-) New Balance: $185.00 Transaction #69
+Agent WT9 withdraws $60.00 from JA-1. (-) New Balance: $125.00 Transaction #70
+Agent WT7 withdraws $24.00 from JA-2. (-) New Balance: $2036.00 Transaction #71
+Agent WT6 withdraws $20.00 from JA-2. (-) New Balance: $2016.00 Transaction #72
+Agent WT0 withdraws $35.00 from JA-1. (-) New Balance: $90.00 Transaction #73
+Agent WT2 withdraws $60.00 from JA-1. (-) New Balance: $30.00 Transaction #74
+Agent WT3 attempts to withdraw $69.00 from JA-1 (****) WITHDRAWAL BLOCKED - INSUFFICIENT FUNDS!!! Balance: $30.00
+Agent WT8 withdraws $74.00 from JA-2. (-) New Balance: $1942.00 Transaction #75
+Agent WT4 withdraws $66.00 from JA-2. (-) New Balance: $1876.00 Transaction #76
+Agent DT3 deposits $589.00 into JA-1. (+) New Balance: $619.00 Transaction #77
+* * * Flagged Transaction * * * Agent DT3 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT2 withdraws $18.00 from JA-1. (-) New Balance: $601.00 Transaction #78
+Agent WT8 withdraws $52.00 from JA-2. (-) New Balance: $1824.00 Transaction #79
+Agent WT6 withdraws $39.00 from JA-2. (-) New Balance: $1785.00 Transaction #80
+Agent WT1 withdraws $86.00 from JA-1. (-) New Balance: $515.00 Transaction #81
+TRANSFER --> Agent TR0 transferring $49.00 from JA-1 to JA-2 -- JA-1 Balance: $466.00, JA-2 Balance: $1834.00 Transaction #82
+Agent WT5 withdraws $32.00 from JA-1. (-) New Balance: $434.00 Transaction #83
+Agent WT3 withdraws $80.00 from JA-1. (-) New Balance: $354.00 Transaction #84
+Agent DT2 deposits $93.00 into JA-1. (+) New Balance: $447.00 Transaction #85
+Agent DT4 deposits $488.00 into JA-1. (+) New Balance: $935.00 Transaction #86
+* * * Flagged Transaction * * * Agent DT4 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT8 withdraws $51.00 from JA-2. (-) New Balance: $1783.00 Transaction #87
+Agent WT0 withdraws $38.00 from JA-1. (-) New Balance: $897.00 Transaction #88
+Agent WT9 withdraws $53.00 from JA-2. (-) New Balance: $1730.00 Transaction #89
+Agent WT7 withdraws $17.00 from JA-1. (-) New Balance: $880.00 Transaction #90
+Agent WT6 withdraws $81.00 from JA-1. (-) New Balance: $799.00 Transaction #91
+Agent WT2 withdraws $3.00 from JA-2. (-) New Balance: $1727.00 Transaction #92
+Agent WT5 withdraws $22.00 from JA-2. (-) New Balance: $1705.00 Transaction #93
+Agent WT7 withdraws $7.00 from JA-2. (-) New Balance: $1698.00 Transaction #94
+Agent WT9 withdraws $95.00 from JA-1. (-) New Balance: $704.00 Transaction #95
+* * * Flagged Transaction * * * Agent WT9 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT4 withdraws $46.00 from JA-2. (-) New Balance: $1652.00 Transaction #96
+Agent WT1 withdraws $69.00 from JA-1. (-) New Balance: $635.00 Transaction #97
+Agent WT8 withdraws $51.00 from JA-1. (-) New Balance: $584.00 Transaction #98
+Agent WT5 withdraws $16.00 from JA-2. (-) New Balance: $1636.00 Transaction #99
+Agent DT4 deposits $383.00 into JA-1. (+) New Balance: $967.00 Transaction #100
+Agent DT3 deposits $167.00 into JA-2. (+) New Balance: $1803.00 Transaction #101
+Agent WT3 withdraws $45.00 from JA-1. (-) New Balance: $922.00 Transaction #102
+Agent DT0 deposits $310.00 into JA-1. (+) New Balance: $1232.00 Transaction #103
+Agent WT0 withdraws $14.00 from JA-1. (-) New Balance: $1218.00 Transaction #104
+Agent WT4 withdraws $86.00 from JA-2. (-) New Balance: $1717.00 Transaction #105
+Agent DT1 deposits $332.00 into JA-1. (+) New Balance: $1550.00 Transaction #106
+Agent WT2 withdraws $7.00 from JA-1. (-) New Balance: $1543.00 Transaction #107
+Agent WT3 withdraws $74.00 from JA-2. (-) New Balance: $1643.00 Transaction #108
+Agent WT6 withdraws $91.00 from JA-1. (-) New Balance: $1452.00 Transaction #109
+* * * Flagged Transaction * * * Agent WT6 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT1 deposits $163.00 into JA-1. (+) New Balance: $1615.00 Transaction #110
+Agent DT3 deposits $85.00 into JA-1. (+) New Balance: $1700.00 Transaction #111
+Agent WT8 withdraws $36.00 from JA-1. (-) New Balance: $1664.00 Transaction #112
+Agent WT7 withdraws $17.00 from JA-2. (-) New Balance: $1626.00 Transaction #113
+Agent WT9 withdraws $62.00 from JA-2. (-) New Balance: $1564.00 Transaction #114
+TRANSFER --> Agent TR0 transferring $31.00 from JA-2 to JA-1 -- JA-2 Balance: $1533.00, JA-1 Balance: $1695.00 Transaction #115
+Agent WT3 withdraws $42.00 from JA-2. (-) New Balance: $1491.00 Transaction #116
+Agent WT1 withdraws $91.00 from JA-1. (-) New Balance: $1604.00 Transaction #117
+* * * Flagged Transaction * * * Agent WT1 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT7 withdraws $85.00 from JA-1. (-) New Balance: $1519.00 Transaction #118
+Agent DT0 deposits $209.00 into JA-1. (+) New Balance: $1728.00 Transaction #119
+Agent WT9 withdraws $70.00 from JA-1. (-) New Balance: $1658.00 Transaction #121
+Agent WT6 withdraws $73.00 from JA-2. (-) New Balance: $1418.00 Transaction #120
+Agent WT5 withdraws $86.00 from JA-1. (-) New Balance: $1572.00 Transaction #122
+Agent WT4 withdraws $72.00 from JA-1. (-) New Balance: $1583.00 Transaction #124
+Agent DT2 deposits $83.00 into JA-1. (+) New Balance: $1583.00 Transaction #125
+Agent DT3 deposits $254.00 into JA-2. (+) New Balance: $1672.00 Transaction #123
+Agent WT0 withdraws $62.00 from JA-2. (-) New Balance: $1610.00 Transaction #126
+Agent WT3 withdraws $96.00 from JA-2. (-) New Balance: $1514.00 Transaction #127
+* * * Flagged Transaction * * * Agent WT3 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT2 withdraws $47.00 from JA-2. (-) New Balance: $1467.00 Transaction #128
+Agent WT4 withdraws $21.00 from JA-1. (-) New Balance: $1562.00 Transaction #129
+TRANSFER --> Agent TR0 transferring $23.00 from JA-1 to JA-2 -- JA-1 Balance: $1539.00, JA-2 Balance: $1490.00 Transaction #130
+Agent WT8 withdraws $39.00 from JA-2. (-) New Balance: $1451.00 Transaction #131
+Agent WT1 withdraws $51.00 from JA-2. (-) New Balance: $1400.00 Transaction #132
+Agent DT3 deposits $444.00 into JA-2. (+) New Balance: $1844.00 Transaction #133
+Agent WT2 withdraws $60.00 from JA-2. (-) New Balance: $1784.00 Transaction #134
+Agent WT1 withdraws $96.00 from JA-2. (-) New Balance: $1688.00 Transaction #135
+* * * Flagged Transaction * * * Agent WT1 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT7 withdraws $47.00 from JA-1. (-) New Balance: $1492.00 Transaction #136
+Agent WT7 withdraws $55.00 from JA-1. (-) New Balance: $1437.00 Transaction #137
+Agent WT7 withdraws $42.00 from JA-1. (-) New Balance: $1395.00 Transaction #138
+Agent WT5 withdraws $38.00 from JA-1. (-) New Balance: $1357.00 Transaction #139
+Agent DT0 deposits $523.00 into JA-1. (+) New Balance: $1880.00 Transaction #140
+* * * Flagged Transaction * * * Agent DT0 made a deposit over $450 USD - See Flagged Transaction Log
+Agent DT3 deposits $372.00 into JA-2. (+) New Balance: $2060.00 Transaction #141
+Agent WT0 withdraws $68.00 from JA-2. (-) New Balance: $1992.00 Transaction #142
+Agent WT4 withdraws $67.00 from JA-1. (-) New Balance: $1813.00 Transaction #143
+Agent WT9 withdraws $54.00 from JA-1. (-) New Balance: $1759.00 Transaction #144
+Agent WT3 withdraws $15.00 from JA-1. (-) New Balance: $1744.00 Transaction #145
+Agent DT4 deposits $41.00 into JA-1. (+) New Balance: $1785.00 Transaction #146
+Agent WT6 withdraws $57.00 from JA-1. (-) New Balance: $1728.00 Transaction #147
+Agent WT7 withdraws $42.00 from JA-1. (-) New Balance: $1686.00 Transaction #148
+TRANSFER --> Agent TR1 transferring $32.00 from JA-2 to JA-1 -- JA-2 Balance: $1960.00, JA-1 Balance: $1718.00 Transaction #149
+Agent DT0 deposits $583.00 into JA-2. (+) New Balance: $2543.00 Transaction #150
+Agent WT1 withdraws $2.00 from JA-2. (-) New Balance: $2541.00 Transaction #151
+* * * Flagged Transaction * * * Agent DT0 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT8 withdraws $82.00 from JA-1. (-) New Balance: $1636.00 Transaction #152
+Agent WT1 withdraws $92.00 from JA-2. (-) New Balance: $2449.00 Transaction #153
+* * * Flagged Transaction * * * Agent WT1 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT2 withdraws $5.00 from JA-1. (-) New Balance: $1631.00 Transaction #154
+Agent WT9 withdraws $89.00 from JA-2. (-) New Balance: $2360.00 Transaction #155
+Agent WT5 withdraws $81.00 from JA-2. (-) New Balance: $2279.00 Transaction #156
+Agent WT5 withdraws $48.00 from JA-2. (-) New Balance: $2231.00 Transaction #157
+Agent DT1 deposits $151.00 into JA-2. (+) New Balance: $2382.00 Transaction #158
+Agent WT9 withdraws $46.00 from JA-2. (-) New Balance: $2336.00 Transaction #159
+Agent WT3 withdraws $43.00 from JA-1. (-) New Balance: $1588.00 Transaction #160
+Agent WT4 withdraws $37.00 from JA-2. (-) New Balance: $2299.00 Transaction #161
+Agent WT6 withdraws $6.00 from JA-1. (-) New Balance: $1582.00 Transaction #162
+Agent DT4 deposits $514.00 into JA-1. (+) New Balance: $2096.00 Transaction #163
+* * * Flagged Transaction * * * Agent DT4 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT3 withdraws $12.00 from JA-2. (-) New Balance: $2287.00 Transaction #164
+Agent WT2 withdraws $43.00 from JA-1. (-) New Balance: $2053.00 Transaction #165
+Agent WT0 withdraws $8.00 from JA-1. (-) New Balance: $2045.00 Transaction #166
+Agent DT0 deposits $417.00 into JA-1. (+) New Balance: $2462.00 Transaction #167
+Agent WT4 withdraws $74.00 from JA-1. (-) New Balance: $2388.00 Transaction #168
+Agent WT8 withdraws $20.00 from JA-2. (-) New Balance: $2267.00 Transaction #169
+Agent WT7 withdraws $24.00 from JA-1. (-) New Balance: $2364.00 Transaction #170
+Agent WT9 withdraws $50.00 from JA-1. (-) New Balance: $2314.00 Transaction #171
+Agent WT5 withdraws $60.00 from JA-1. (-) New Balance: $2254.00 Transaction #172
+Agent WT4 withdraws $87.00 from JA-1. (-) New Balance: $2167.00 Transaction #173
+Agent WT8 withdraws $13.00 from JA-1. (-) New Balance: $2154.00 Transaction #174
+Agent WT8 withdraws $51.00 from JA-2. (-) New Balance: $2216.00 Transaction #175
+Agent WT7 withdraws $85.00 from JA-1. (-) New Balance: $2069.00 Transaction #176
+Agent WT1 withdraws $32.00 from JA-1. (-) New Balance: $2037.00 Transaction #177
+Agent DT3 deposits $273.00 into JA-2. (+) New Balance: $2489.00 Transaction #178
+Agent DT2 deposits $325.00 into JA-1. (+) New Balance: $2362.00 Transaction #179
+Agent DT2 deposits $299.00 into JA-1. (+) New Balance: $2661.00 Transaction #180
+Agent WT3 withdraws $20.00 from JA-2. (-) New Balance: $2469.00 Transaction #181
+TRANSFER --> Agent TR0 transferring $38.00 from JA-1 to JA-2 -- JA-1 Balance: $2623.00, JA-2 Balance: $2507.00 Transaction #182
+Agent WT5 withdraws $70.00 from JA-1. (-) New Balance: $2553.00 Transaction #183
+Agent WT6 withdraws $42.00 from JA-1. (-) New Balance: $2511.00 Transaction #184
+Agent WT2 withdraws $28.00 from JA-2. (-) New Balance: $2479.00 Transaction #185
+Agent WT9 withdraws $1.00 from JA-1. (-) New Balance: $2510.00 Transaction #186
+Agent WT7 withdraws $91.00 from JA-2. (-) New Balance: $2388.00 Transaction #187
+* * * Flagged Transaction * * * Agent WT7 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT5 withdraws $68.00 from JA-1. (-) New Balance: $2442.00 Transaction #188
+Agent WT0 withdraws $1.00 from JA-2. (-) New Balance: $2387.00 Transaction #189
+Agent WT3 withdraws $97.00 from JA-1. (-) New Balance: $2345.00 Transaction #190
+* * * Flagged Transaction * * * Agent WT3 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT4 withdraws $74.00 from JA-1. (-) New Balance: $2271.00 Transaction #191
+Agent WT7 withdraws $2.00 from JA-2. (-) New Balance: $2385.00 Transaction #192
+Agent DT4 deposits $503.00 into JA-2. (+) New Balance: $2888.00 Transaction #193
+* * * Flagged Transaction * * * Agent DT4 made a deposit over $450 USD - See Flagged Transaction Log
+Agent DT3 deposits $325.00 into JA-1. (+) New Balance: $2596.00 Transaction #194
+Agent WT8 withdraws $78.00 from JA-2. (-) New Balance: $2810.00 Transaction #195
+Agent DT0 deposits $257.00 into JA-2. (+) New Balance: $3067.00 Transaction #196
+Agent WT8 withdraws $45.00 from JA-1. (-) New Balance: $2551.00 Transaction #197
+Agent WT2 withdraws $6.00 from JA-1. (-) New Balance: $2545.00 Transaction #198
+Agent WT5 withdraws $91.00 from JA-1. (-) New Balance: $2454.00 Transaction #199
+* * * Flagged Transaction * * * Agent WT5 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT9 withdraws $97.00 from JA-1. (-) New Balance: $2357.00 Transaction #200
+* * * Flagged Transaction * * * Agent WT9 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT1 withdraws $76.00 from JA-2. (-) New Balance: $2991.00 Transaction #201
+Agent DT3 deposits $135.00 into JA-1. (+) New Balance: $2492.00 Transaction #202
+Agent DT0 deposits $295.00 into JA-1. (+) New Balance: $2787.00 Transaction #203
+Agent DT1 deposits $215.00 into JA-2. (+) New Balance: $3206.00 Transaction #204
+Agent WT3 withdraws $16.00 from JA-2. (-) New Balance: $3190.00 Transaction #205
+Agent DT4 deposits $599.00 into JA-2. (+) New Balance: $3789.00 Transaction #206
+* * * Flagged Transaction * * * Agent DT4 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT6 withdraws $29.00 from JA-2. (-) New Balance: $3760.00 Transaction #207
+Agent WT7 withdraws $76.00 from JA-1. (-) New Balance: $2711.00 Transaction #208
+Agent WT0 withdraws $46.00 from JA-1. (-) New Balance: $2665.00 Transaction #209
+Agent WT4 withdraws $38.00 from JA-1. (-) New Balance: $2627.00 Transaction #210
+Agent DT4 deposits $291.00 into JA-2. (+) New Balance: $4051.00 Transaction #211
+Agent DT0 deposits $453.00 into JA-2. (+) New Balance: $4504.00 Transaction #212
+* * * Flagged Transaction * * * Agent DT0 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT9 withdraws $42.00 from JA-1. (-) New Balance: $2585.00 Transaction #213
+Agent WT1 withdraws $11.00 from JA-2. (-) New Balance: $4493.00 Transaction #214
+Agent WT2 withdraws $66.00 from JA-2. (-) New Balance: $4427.00 Transaction #215
+Agent DT4 deposits $236.00 into JA-1. (+) New Balance: $2821.00 Transaction #216
+Agent WT7 withdraws $73.00 from JA-2. (-) New Balance: $4354.00 Transaction #217
+Agent WT1 withdraws $50.00 from JA-2. (-) New Balance: $4304.00 Transaction #218
+Agent WT5 withdraws $30.00 from JA-2. (-) New Balance: $4274.00 Transaction #219
+Agent WT8 withdraws $77.00 from JA-2. (-) New Balance: $4197.00 Transaction #220
+Agent DT3 deposits $305.00 into JA-2. (+) New Balance: $4502.00 Transaction #221
+Agent WT3 withdraws $62.00 from JA-1. (-) New Balance: $2759.00 Transaction #222
+Agent DT2 deposits $347.00 into JA-2. (+) New Balance: $4849.00 Transaction #223
+Agent WT3 withdraws $38.00 from JA-1. (-) New Balance: $2721.00 Transaction #224
+Agent DT0 deposits $373.00 into JA-1. (+) New Balance: $3094.00 Transaction #225
+Agent DT4 deposits $249.00 into JA-1. (+) New Balance: $3343.00 Transaction #226
+Agent WT8 withdraws $60.00 from JA-1. (-) New Balance: $3283.00 Transaction #227
+Agent WT3 withdraws $62.00 from JA-1. (-) New Balance: $3221.00 Transaction #228
+Agent WT6 withdraws $45.00 from JA-1. (-) New Balance: $3176.00 Transaction #229
+Agent WT3 withdraws $46.00 from JA-2. (-) New Balance: $4803.00 Transaction #230
+Agent WT5 withdraws $17.00 from JA-2. (-) New Balance: $4786.00 Transaction #231
+Agent WT2 withdraws $8.00 from JA-2. (-) New Balance: $4778.00 Transaction #232
+Agent WT0 withdraws $73.00 from JA-1. (-) New Balance: $3103.00 Transaction #233
+Agent WT3 withdraws $20.00 from JA-2. (-) New Balance: $4758.00 Transaction #234
+Agent WT1 withdraws $23.00 from JA-1. (-) New Balance: $3080.00 Transaction #235
+Agent WT4 withdraws $82.00 from JA-2. (-) New Balance: $4676.00 Transaction #236
+Agent WT8 withdraws $39.00 from JA-1. (-) New Balance: $3041.00 Transaction #237
+Agent WT9 withdraws $2.00 from JA-1. (-) New Balance: $3039.00 Transaction #238
+Agent WT1 withdraws $10.00 from JA-2. (-) New Balance: $4666.00 Transaction #239
+Agent WT7 withdraws $7.00 from JA-1. (-) New Balance: $3032.00 Transaction #240
+Agent WT5 withdraws $58.00 from JA-2. (-) New Balance: $4608.00 Transaction #241
+Agent DT2 deposits $44.00 into JA-2. (+) New Balance: $4652.00 Transaction #242
+Agent WT2 withdraws $10.00 from JA-1. (-) New Balance: $3022.00 Transaction #243
+Agent WT7 withdraws $14.00 from JA-1. (-) New Balance: $3008.00 Transaction #244
+Agent WT6 withdraws $58.00 from JA-1. (-) New Balance: $2950.00 Transaction #245
+Agent WT2 withdraws $16.00 from JA-1. (-) New Balance: $2934.00 Transaction #246
+TRANSFER --> Agent TR1 transferring $28.00 from JA-2 to JA-1 -- JA-2 Balance: $4624.00, JA-1 Balance: $2962.00 Transaction #247
+Agent WT9 withdraws $23.00 from JA-1. (-) New Balance: $2939.00 Transaction #248
+Agent DT3 deposits $446.00 into JA-1. (+) New Balance: $3385.00 Transaction #249
+Agent WT6 withdraws $50.00 from JA-2. (-) New Balance: $4574.00 Transaction #250
+Agent WT4 withdraws $72.00 from JA-2. (-) New Balance: $4502.00 Transaction #251
+Agent WT3 withdraws $86.00 from JA-1. (-) New Balance: $3299.00 Transaction #252
+Agent WT0 withdraws $2.00 from JA-2. (-) New Balance: $4500.00 Transaction #253
+Agent WT2 withdraws $48.00 from JA-2. (-) New Balance: $4452.00 Transaction #254
+Agent DT1 deposits $468.00 into JA-1. (+) New Balance: $3767.00 Transaction #255
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT8 withdraws $34.00 from JA-2. (-) New Balance: $4418.00 Transaction #256
+Agent WT5 withdraws $61.00 from JA-2. (-) New Balance: $4357.00 Transaction #257
+Agent WT1 withdraws $74.00 from JA-1. (-) New Balance: $3693.00 Transaction #258
+Agent WT2 withdraws $48.00 from JA-1. (-) New Balance: $3645.00 Transaction #259
+Agent DT4 deposits $55.00 into JA-1. (+) New Balance: $3700.00 Transaction #260
+Agent DT0 deposits $467.00 into JA-1. (+) New Balance: $4167.00 Transaction #261
+* * * Flagged Transaction * * * Agent DT0 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT3 withdraws $15.00 from JA-2. (-) New Balance: $4342.00 Transaction #262
+Agent WT0 withdraws $77.00 from JA-2. (-) New Balance: $4265.00 Transaction #263
+TRANSFER --> Agent TR0 transferring $2.00 from JA-1 to JA-2 -- JA-1 Balance: $4165.00, JA-2 Balance: $4267.00 Transaction #264
+Agent DT2 deposits $585.00 into JA-1. (+) New Balance: $4750.00 Transaction #265
+* * * Flagged Transaction * * * Agent DT2 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT7 withdraws $9.00 from JA-2. (-) New Balance: $4258.00 Transaction #266
+Agent WT5 withdraws $13.00 from JA-2. (-) New Balance: $4245.00 Transaction #267
+Agent WT9 withdraws $80.00 from JA-1. (-) New Balance: $4670.00 Transaction #268
+Agent WT5 withdraws $46.00 from JA-1. (-) New Balance: $4624.00 Transaction #269
+Agent WT6 withdraws $2.00 from JA-2. (-) New Balance: $4197.00 Transaction #270
+Agent WT7 withdraws $46.00 from JA-2. (-) New Balance: $4197.00 Transaction #271
+Agent DT1 deposits $194.00 into JA-1. (+) New Balance: $4818.00 Transaction #272
+Agent WT4 withdraws $7.00 from JA-1. (-) New Balance: $4811.00 Transaction #273
+****************************************************************************************************
+INTERNAL BANK AUDIT BEGINNING...
+	The total number of transactions since the last Internal Audit: 274
+	INTERNAL AUDITOR FINDS CURRENT BALANCE FOR JA-1 TO BE: $4811.00
+	INTERNAL AUDITOR FINDS CURRENT BALANCE FOR JA-2 TO BE: $4197.00
+INTERNAL BANK AUDIT COMPLETED...
+****************************************************************************************************
+Agent WT8 withdraws $39.00 from JA-1. (-) New Balance: $4772.00 Transaction #275
+Agent WT3 withdraws $97.00 from JA-2. (-) New Balance: $4100.00 Transaction #276
+* * * Flagged Transaction * * * Agent WT3 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT1 deposits $17.00 into JA-1. (+) New Balance: $4789.00 Transaction #277
+Agent WT6 withdraws $66.00 from JA-1. (-) New Balance: $4723.00 Transaction #278
+Agent WT8 withdraws $42.00 from JA-2. (-) New Balance: $4058.00 Transaction #279
+Agent WT5 withdraws $18.00 from JA-1. (-) New Balance: $4705.00 Transaction #280
+Agent WT3 withdraws $13.00 from JA-2. (-) New Balance: $4045.00 Transaction #281
+Agent WT1 withdraws $77.00 from JA-2. (-) New Balance: $3968.00 Transaction #282
+Agent WT0 withdraws $1.00 from JA-2. (-) New Balance: $3967.00 Transaction #283
+Agent WT9 withdraws $40.00 from JA-2. (-) New Balance: $3927.00 Transaction #284
+Agent WT1 withdraws $28.00 from JA-1. (-) New Balance: $4677.00 Transaction #285
+Agent DT2 deposits $484.00 into JA-2. (+) New Balance: $4411.00 Transaction #286
+* * * Flagged Transaction * * * Agent DT2 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT7 withdraws $45.00 from JA-2. (-) New Balance: $4366.00 Transaction #287
+Agent WT9 withdraws $28.00 from JA-2. (-) New Balance: $4338.00 Transaction #288
+Agent WT0 withdraws $2.00 from JA-2. (-) New Balance: $4336.00 Transaction #289
+Agent WT2 withdraws $29.00 from JA-2. (-) New Balance: $4307.00 Transaction #290
+Agent WT6 withdraws $74.00 from JA-2. (-) New Balance: $4233.00 Transaction #291
+Agent WT2 withdraws $1.00 from JA-2. (-) New Balance: $4232.00 Transaction #292
+Agent WT5 withdraws $69.00 from JA-2. (-) New Balance: $4163.00 Transaction #293
+TRANSFER --> Agent TR1 transferring $27.00 from JA-1 to JA-2 -- JA-1 Balance: $4650.00, JA-2 Balance: $4190.00 Transaction #294
+Agent WT9 withdraws $27.00 from JA-1. (-) New Balance: $4623.00 Transaction #295
+Agent DT3 deposits $21.00 into JA-1. (+) New Balance: $4644.00 Transaction #296
+Agent WT4 withdraws $37.00 from JA-2. (-) New Balance: $4153.00 Transaction #297
+Agent WT3 withdraws $45.00 from JA-1. (-) New Balance: $4599.00 Transaction #298
+Agent DT4 deposits $314.00 into JA-2. (+) New Balance: $4467.00 Transaction #299
+Agent WT8 withdraws $18.00 from JA-1. (-) New Balance: $4581.00 Transaction #300
+TRANSFER --> Agent TR0 transferring $30.00 from JA-2 to JA-1 -- JA-2 Balance: $4437.00, JA-1 Balance: $4611.00 Transaction #301
+Agent DT1 deposits $148.00 into JA-1. (+) New Balance: $4759.00 Transaction #302
+Agent WT3 withdraws $35.00 from JA-1. (-) New Balance: $4724.00 Transaction #303
+Agent WT7 withdraws $10.00 from JA-2. (-) New Balance: $4427.00 Transaction #304
+TRANSFER --> Agent TR1 transferring $9.00 from JA-2 to JA-1 -- JA-2 Balance: $4418.00, JA-1 Balance: $4733.00 Transaction #305
+Agent WT5 withdraws $4.00 from JA-2. (-) New Balance: $4414.00 Transaction #306
+Agent DT1 deposits $112.00 into JA-1. (+) New Balance: $4845.00 Transaction #307
+Agent WT0 withdraws $67.00 from JA-2. (-) New Balance: $4347.00 Transaction #308
+Agent WT2 withdraws $61.00 from JA-2. (-) New Balance: $4286.00 Transaction #309
+Agent WT9 withdraws $28.00 from JA-1. (-) New Balance: $4817.00 Transaction #310
+Agent WT1 withdraws $42.00 from JA-2. (-) New Balance: $4244.00 Transaction #311
+Agent WT8 withdraws $66.00 from JA-1. (-) New Balance: $4751.00 Transaction #312
+Agent WT3 withdraws $87.00 from JA-1. (-) New Balance: $4664.00 Transaction #313
+Agent DT3 deposits $23.00 into JA-1. (+) New Balance: $4687.00 Transaction #314
+Agent WT4 withdraws $95.00 from JA-1. (-) New Balance: $4592.00 Transaction #315
+* * * Flagged Transaction * * * Agent WT4 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT6 withdraws $38.00 from JA-2. (-) New Balance: $4206.00 Transaction #316
+Agent WT1 withdraws $4.00 from JA-2. (-) New Balance: $4202.00 Transaction #317
+Agent WT6 withdraws $85.00 from JA-1. (-) New Balance: $4507.00 Transaction #318
+Agent WT7 withdraws $5.00 from JA-1. (-) New Balance: $4502.00 Transaction #319
+Agent DT0 deposits $261.00 into JA-1. (+) New Balance: $4763.00 Transaction #320
+Agent DT4 deposits $66.00 into JA-2. (+) New Balance: $4268.00 Transaction #321
+Agent DT3 deposits $600.00 into JA-2. (+) New Balance: $4868.00 Transaction #322
+* * * Flagged Transaction * * * Agent DT3 made a deposit over $450 USD - See Flagged Transaction Log
+Agent DT1 deposits $512.00 into JA-2. (+) New Balance: $5380.00 Transaction #323
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT8 withdraws $81.00 from JA-1. (-) New Balance: $4682.00 Transaction #324
+Agent WT2 withdraws $17.00 from JA-2. (-) New Balance: $5363.00 Transaction #325
+Agent DT2 deposits $129.00 into JA-1. (+) New Balance: $4811.00 Transaction #326
+Agent WT5 withdraws $91.00 from JA-2. (-) New Balance: $5272.00 Transaction #327
+* * * Flagged Transaction * * * Agent WT5 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT1 deposits $65.00 into JA-2. (+) New Balance: $5337.00 Transaction #328
+Agent WT8 withdraws $38.00 from JA-1. (-) New Balance: $4773.00 Transaction #329
+Agent WT0 withdraws $69.00 from JA-2. (-) New Balance: $5268.00 Transaction #330
+Agent WT7 withdraws $19.00 from JA-2. (-) New Balance: $5184.00 Transaction #331
+Agent WT9 withdraws $65.00 from JA-2. (-) New Balance: $5184.00 Transaction #332
+Agent DT2 deposits $308.00 into JA-2. (+) New Balance: $5492.00 Transaction #333
+Agent WT3 withdraws $51.00 from JA-1. (-) New Balance: $4722.00 Transaction #334
+Agent DT1 deposits $472.00 into JA-2. (+) New Balance: $5964.00 Transaction #335
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT0 withdraws $13.00 from JA-2. (-) New Balance: $5951.00 Transaction #336
+Agent DT3 deposits $223.00 into JA-2. (+) New Balance: $6174.00 Transaction #337
+Agent WT6 withdraws $3.00 from JA-1. (-) New Balance: $4719.00 Transaction #338
+Agent WT4 withdraws $19.00 from JA-2. (-) New Balance: $6155.00 Transaction #339
+Agent DT3 deposits $372.00 into JA-1. (+) New Balance: $5091.00 Transaction #340
+Agent WT1 withdraws $48.00 from JA-2. (-) New Balance: $6107.00 Transaction #341
+Agent WT2 withdraws $82.00 from JA-1. (-) New Balance: $5009.00 Transaction #342
+Agent DT0 deposits $543.00 into JA-1. (+) New Balance: $5552.00 Transaction #343
+* * * Flagged Transaction * * * Agent DT0 made a deposit over $450 USD - See Flagged Transaction Log
+Agent DT4 deposits $306.00 into JA-2. (+) New Balance: $6413.00 Transaction #344
+Agent WT7 withdraws $49.00 from JA-1. (-) New Balance: $5503.00 Transaction #345
+Agent WT9 withdraws $93.00 from JA-2. (-) New Balance: $6320.00 Transaction #346
+* * * Flagged Transaction * * * Agent WT9 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT8 withdraws $13.00 from JA-2. (-) New Balance: $6307.00 Transaction #347
+Agent WT2 withdraws $35.00 from JA-1. (-) New Balance: $5468.00 Transaction #348
+TRANSFER --> Agent TR0 transferring $28.00 from JA-2 to JA-1 -- JA-2 Balance: $6279.00, JA-1 Balance: $5496.00 Transaction #349
+Agent WT0 withdraws $33.00 from JA-2. (-) New Balance: $6246.00 Transaction #350
+Agent WT2 withdraws $26.00 from JA-1. (-) New Balance: $5470.00 Transaction #351
+Agent WT4 withdraws $94.00 from JA-1. (-) New Balance: $5376.00 Transaction #352
+* * * Flagged Transaction * * * Agent WT4 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT1 deposits $131.00 into JA-2. (+) New Balance: $6377.00 Transaction #353
+Agent DT4 deposits $281.00 into JA-1. (+) New Balance: $5657.00 Transaction #354
+Agent WT3 withdraws $66.00 from JA-2. (-) New Balance: $6311.00 Transaction #355
+Agent WT5 withdraws $91.00 from JA-1. (-) New Balance: $5566.00 Transaction #356
+* * * Flagged Transaction * * * Agent WT5 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT6 withdraws $27.00 from JA-1. (-) New Balance: $5539.00 Transaction #357
+Agent WT2 withdraws $77.00 from JA-1. (-) New Balance: $5462.00 Transaction #358
+Agent WT8 withdraws $58.00 from JA-2. (-) New Balance: $6253.00 Transaction #359
+Agent DT3 deposits $339.00 into JA-2. (+) New Balance: $6592.00 Transaction #360
+Agent WT1 withdraws $52.00 from JA-1. (-) New Balance: $5410.00 Transaction #361
+Agent WT7 withdraws $93.00 from JA-1. (-) New Balance: $5317.00 Transaction #362
+* * * Flagged Transaction * * * Agent WT7 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT6 withdraws $45.00 from JA-2. (-) New Balance: $6547.00 Transaction #363
+Agent DT1 deposits $498.00 into JA-1. (+) New Balance: $5815.00 Transaction #364
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT3 withdraws $97.00 from JA-1. (-) New Balance: $5718.00 Transaction #365
+* * * Flagged Transaction * * * Agent WT3 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT2 deposits $80.00 into JA-2. (+) New Balance: $6627.00 Transaction #366
+Agent WT8 withdraws $36.00 from JA-2. (-) New Balance: $6591.00 Transaction #367
+Agent WT9 withdraws $59.00 from JA-2. (-) New Balance: $6532.00 Transaction #368
+Agent WT5 withdraws $94.00 from JA-1. (-) New Balance: $5624.00 Transaction #369
+* * * Flagged Transaction * * * Agent WT5 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT0 withdraws $39.00 from JA-1. (-) New Balance: $5585.00 Transaction #370
+Agent WT0 withdraws $90.00 from JA-1. (-) New Balance: $5495.00 Transaction #371
+Agent WT4 withdraws $13.00 from JA-1. (-) New Balance: $5482.00 Transaction #372
+Agent WT6 withdraws $51.00 from JA-2. (-) New Balance: $6481.00 Transaction #373
+Agent WT0 withdraws $48.00 from JA-2. (-) New Balance: $6433.00 Transaction #374
+Agent DT4 deposits $63.00 into JA-1. (+) New Balance: $5545.00 Transaction #375
+Agent DT3 deposits $379.00 into JA-1. (+) New Balance: $5924.00 Transaction #376
+Agent WT3 withdraws $33.00 from JA-1. (-) New Balance: $5891.00 Transaction #377
+Agent WT7 withdraws $46.00 from JA-2. (-) New Balance: $6387.00 Transaction #378
+Agent WT2 withdraws $57.00 from JA-2. (-) New Balance: $6330.00 Transaction #379
+Agent WT1 withdraws $25.00 from JA-1. (-) New Balance: $5866.00 Transaction #380
+Agent WT8 withdraws $1.00 from JA-2. (-) New Balance: $6329.00 Transaction #381
+Agent WT7 withdraws $12.00 from JA-1. (-) New Balance: $5854.00 Transaction #382
+Agent WT0 withdraws $2.00 from JA-2. (-) New Balance: $6327.00 Transaction #383
+Agent DT0 deposits $201.00 into JA-1. (+) New Balance: $6055.00 Transaction #384
+Agent WT8 withdraws $98.00 from JA-2. (-) New Balance: $6229.00 Transaction #385
+* * * Flagged Transaction * * * Agent WT8 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT9 withdraws $50.00 from JA-2. (-) New Balance: $6179.00 Transaction #386
+Agent WT6 withdraws $21.00 from JA-1. (-) New Balance: $6034.00 Transaction #387
+Agent WT1 withdraws $50.00 from JA-1. (-) New Balance: $5984.00 Transaction #388
+Agent DT1 deposits $407.00 into JA-2. (+) New Balance: $6586.00 Transaction #389
+Agent WT5 withdraws $28.00 from JA-1. (-) New Balance: $5956.00 Transaction #390
+Agent WT4 withdraws $92.00 from JA-1. (-) New Balance: $5864.00 Transaction #392
+Agent WT8 withdraws $19.00 from JA-2. (-) New Balance: $6567.00 Transaction #391
+* * * Flagged Transaction * * * Agent WT4 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT0 deposits $462.00 into JA-2. (+) New Balance: $7029.00 Transaction #393
+* * * Flagged Transaction * * * Agent DT0 made a deposit over $450 USD - See Flagged Transaction Log
+Agent DT2 deposits $462.00 into JA-1. (+) New Balance: $6326.00 Transaction #394
+* * * Flagged Transaction * * * Agent DT2 made a deposit over $450 USD - See Flagged Transaction Log
+TRANSFER --> Agent TR1 transferring $41.00 from JA-2 to JA-1 -- JA-2 Balance: $6988.00, JA-1 Balance: $6367.00 Transaction #395
+Agent WT3 withdraws $5.00 from JA-1. (-) New Balance: $6362.00 Transaction #396
+Agent WT6 withdraws $12.00 from JA-1. (-) New Balance: $6350.00 Transaction #397
+Agent DT4 deposits $474.00 into JA-1. (+) New Balance: $6824.00 Transaction #398
+* * * Flagged Transaction * * * Agent DT4 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT1 withdraws $58.00 from JA-1. (-) New Balance: $6766.00 Transaction #399
+Agent WT0 withdraws $9.00 from JA-2. (-) New Balance: $6979.00 Transaction #400
+Agent WT7 withdraws $57.00 from JA-1. (-) New Balance: $6709.00 Transaction #401
+Agent WT2 withdraws $53.00 from JA-2. (-) New Balance: $6926.00 Transaction #402
+Agent WT6 withdraws $15.00 from JA-1. (-) New Balance: $6694.00 Transaction #403
+Agent WT7 withdraws $51.00 from JA-2. (-) New Balance: $6875.00 Transaction #404
+Agent WT6 withdraws $17.00 from JA-2. (-) New Balance: $6858.00 Transaction #405
+Agent DT1 deposits $482.00 into JA-2. (+) New Balance: $7340.00 Transaction #406
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent DT0 deposits $331.00 into JA-2. (+) New Balance: $7671.00 Transaction #407
+Agent WT9 withdraws $8.00 from JA-1. (-) New Balance: $6686.00 Transaction #408
+Agent DT4 deposits $93.00 into JA-2. (+) New Balance: $7764.00 Transaction #409
+Agent WT4 withdraws $81.00 from JA-2. (-) New Balance: $7683.00 Transaction #410
+Agent WT5 withdraws $86.00 from JA-1. (-) New Balance: $6600.00 Transaction #411
+Agent WT7 withdraws $10.00 from JA-2. (-) New Balance: $7673.00 Transaction #412
+Agent WT8 withdraws $93.00 from JA-1. (-) New Balance: $6507.00 Transaction #413
+* * * Flagged Transaction * * * Agent WT8 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT9 withdraws $57.00 from JA-2. (-) New Balance: $7616.00 Transaction #414
+Agent WT3 withdraws $17.00 from JA-2. (-) New Balance: $7599.00 Transaction #415
+Agent WT0 withdraws $20.00 from JA-1. (-) New Balance: $6487.00 Transaction #416
+Agent WT2 withdraws $48.00 from JA-1. (-) New Balance: $6439.00 Transaction #417
+Agent DT2 deposits $76.00 into JA-2. (+) New Balance: $7675.00 Transaction #418
+Agent DT3 deposits $560.00 into JA-1. (+) New Balance: $6999.00 Transaction #419
+* * * Flagged Transaction * * * Agent DT3 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT6 withdraws $77.00 from JA-1. (-) New Balance: $6922.00 Transaction #420
+Agent WT4 withdraws $78.00 from JA-2. (-) New Balance: $7597.00 Transaction #421
+Agent WT1 withdraws $36.00 from JA-2. (-) New Balance: $7561.00 Transaction #422
+Agent WT9 withdraws $60.00 from JA-1. (-) New Balance: $6862.00 Transaction #423
+Agent DT0 deposits $119.00 into JA-2. (+) New Balance: $7680.00 Transaction #424
+Agent WT6 withdraws $20.00 from JA-1. (-) New Balance: $6842.00 Transaction #425
+Agent WT7 withdraws $24.00 from JA-2. (-) New Balance: $7656.00 Transaction #426
+Agent WT5 withdraws $29.00 from JA-2. (-) New Balance: $7627.00 Transaction #427
+Agent WT0 withdraws $11.00 from JA-2. (-) New Balance: $7616.00 Transaction #428
+TRANSFER --> Agent TR0 transferring $44.00 from JA-1 to JA-2 -- JA-1 Balance: $6798.00, JA-2 Balance: $7660.00 Transaction #429
+Agent WT2 withdraws $56.00 from JA-2. (-) New Balance: $7604.00 Transaction #430
+Agent WT5 withdraws $68.00 from JA-1. (-) New Balance: $6730.00 Transaction #431
+Agent WT5 withdraws $61.00 from JA-1. (-) New Balance: $6669.00 Transaction #432
+Agent WT0 withdraws $62.00 from JA-1. (-) New Balance: $6607.00 Transaction #433
+TRANSFER --> Agent TR1 transferring $5.00 from JA-1 to JA-2 -- JA-1 Balance: $6602.00, JA-2 Balance: $7609.00 Transaction #434
+Agent DT3 deposits $330.00 into JA-2. (+) New Balance: $7939.00 Transaction #435
+Agent DT1 deposits $454.00 into JA-1. (+) New Balance: $7056.00 Transaction #436
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT8 withdraws $12.00 from JA-1. (-) New Balance: $7044.00 Transaction #437
+Agent WT3 withdraws $15.00 from JA-1. (-) New Balance: $7029.00 Transaction #438
+Agent WT1 withdraws $21.00 from JA-2. (-) New Balance: $7918.00 Transaction #439
+Agent WT0 withdraws $21.00 from JA-2. (-) New Balance: $7897.00 Transaction #440
+Agent WT1 withdraws $8.00 from JA-2. (-) New Balance: $7889.00 Transaction #441
+Agent WT5 withdraws $34.00 from JA-2. (-) New Balance: $7855.00 Transaction #442
+Agent WT3 withdraws $86.00 from JA-2. (-) New Balance: $7769.00 Transaction #443
+Agent WT8 withdraws $80.00 from JA-1. (-) New Balance: $6949.00 Transaction #444
+Agent WT2 withdraws $24.00 from JA-2. (-) New Balance: $7745.00 Transaction #445
+Agent WT6 withdraws $65.00 from JA-2. (-) New Balance: $7680.00 Transaction #446
+Agent WT5 withdraws $5.00 from JA-1. (-) New Balance: $6944.00 Transaction #447
+Agent WT9 withdraws $81.00 from JA-2. (-) New Balance: $7599.00 Transaction #448
+Agent WT4 withdraws $92.00 from JA-1. (-) New Balance: $6852.00 Transaction #449
+* * * Flagged Transaction * * * Agent WT4 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT7 withdraws $13.00 from JA-1. (-) New Balance: $6839.00 Transaction #450
+Agent DT4 deposits $436.00 into JA-1. (+) New Balance: $7275.00 Transaction #451
+Agent DT2 deposits $393.00 into JA-1. (+) New Balance: $7668.00 Transaction #452
+Agent WT0 withdraws $13.00 from JA-1. (-) New Balance: $7655.00 Transaction #453
+Agent WT2 withdraws $22.00 from JA-2. (-) New Balance: $7577.00 Transaction #454
+Agent DT2 deposits $466.00 into JA-2. (+) New Balance: $8043.00 Transaction #455
+* * * Flagged Transaction * * * Agent DT2 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT6 withdraws $80.00 from JA-2. (-) New Balance: $7963.00 Transaction #456
+Agent DT0 deposits $497.00 into JA-1. (+) New Balance: $8152.00 Transaction #457
+* * * Flagged Transaction * * * Agent DT0 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT9 withdraws $74.00 from JA-2. (-) New Balance: $7889.00 Transaction #458
+Agent WT5 withdraws $11.00 from JA-1. (-) New Balance: $8141.00 Transaction #459
+Agent WT1 withdraws $53.00 from JA-1. (-) New Balance: $8088.00 Transaction #460
+Agent WT0 withdraws $40.00 from JA-2. (-) New Balance: $7849.00 Transaction #461
+Agent WT0 withdraws $88.00 from JA-1. (-) New Balance: $8000.00 Transaction #462
+Agent WT3 withdraws $24.00 from JA-2. (-) New Balance: $7825.00 Transaction #463
+Agent DT3 deposits $209.00 into JA-1. (+) New Balance: $8209.00 Transaction #464
+Agent WT3 withdraws $34.00 from JA-2. (-) New Balance: $7791.00 Transaction #465
+Agent DT2 deposits $497.00 into JA-2. (+) New Balance: $8288.00 Transaction #466
+* * * Flagged Transaction * * * Agent DT2 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT4 withdraws $9.00 from JA-2. (-) New Balance: $8279.00 Transaction #467
+Agent WT5 withdraws $35.00 from JA-1. (-) New Balance: $8174.00 Transaction #468
+Agent WT8 withdraws $26.00 from JA-2. (-) New Balance: $8253.00 Transaction #469
+TRANSFER --> Agent TR1 transferring $17.00 from JA-2 to JA-1 -- JA-2 Balance: $8236.00, JA-1 Balance: $8191.00 Transaction #470
+Agent WT9 withdraws $21.00 from JA-1. (-) New Balance: $8170.00 Transaction #471
+Agent DT1 deposits $574.00 into JA-2. (+) New Balance: $8810.00 Transaction #472
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT4 withdraws $69.00 from JA-1. (-) New Balance: $8101.00 Transaction #474
+Agent WT7 withdraws $45.00 from JA-2. (-) New Balance: $8765.00 Transaction #473
+Agent DT2 deposits $212.00 into JA-1. (+) New Balance: $8313.00 Transaction #475
+Agent WT1 withdraws $52.00 from JA-1. (-) New Balance: $8261.00 Transaction #476
+Agent WT9 withdraws $42.00 from JA-2. (-) New Balance: $8723.00 Transaction #477
+Agent WT2 withdraws $28.00 from JA-2. (-) New Balance: $8695.00 Transaction #478
+Agent DT0 deposits $10.00 into JA-2. (+) New Balance: $8705.00 Transaction #479
+TRANSFER --> Agent TR0 transferring $32.00 from JA-2 to JA-1 -- JA-2 Balance: $8673.00, JA-1 Balance: $8293.00 Transaction #480
+Agent WT6 withdraws $48.00 from JA-1. (-) New Balance: $8245.00 Transaction #481
+Agent WT9 withdraws $8.00 from JA-2. (-) New Balance: $8665.00 Transaction #482
+Agent WT1 withdraws $76.00 from JA-1. (-) New Balance: $8169.00 Transaction #483
+Agent WT0 withdraws $37.00 from JA-1. (-) New Balance: $8132.00 Transaction #484
+Agent WT5 withdraws $76.00 from JA-1. (-) New Balance: $8056.00 Transaction #485
+Agent WT8 withdraws $4.00 from JA-2. (-) New Balance: $8661.00 Transaction #486
+Agent DT2 deposits $372.00 into JA-1. (+) New Balance: $8428.00 Transaction #487
+Agent WT0 withdraws $28.00 from JA-2. (-) New Balance: $8633.00 Transaction #488
+Agent WT9 withdraws $82.00 from JA-2. (-) New Balance: $8551.00 Transaction #489
+Agent DT2 deposits $440.00 into JA-2. (+) New Balance: $8991.00 Transaction #490
+Agent WT4 withdraws $77.00 from JA-1. (-) New Balance: $8351.00 Transaction #491
+Agent DT4 deposits $345.00 into JA-2. (+) New Balance: $9336.00 Transaction #492
+Agent WT3 withdraws $75.00 from JA-1. (-) New Balance: $8276.00 Transaction #493
+Agent WT5 withdraws $50.00 from JA-1. (-) New Balance: $8226.00 Transaction #494
+Agent DT2 deposits $131.00 into JA-1. (+) New Balance: $8357.00 Transaction #495
+Agent WT7 withdraws $93.00 from JA-1. (-) New Balance: $8264.00 Transaction #496
+* * * Flagged Transaction * * * Agent WT7 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT4 withdraws $44.00 from JA-1. (-) New Balance: $8220.00 Transaction #497
+Agent WT2 withdraws $8.00 from JA-2. (-) New Balance: $9328.00 Transaction #498
+Agent WT7 withdraws $71.00 from JA-2. (-) New Balance: $9257.00 Transaction #499
+Agent WT0 withdraws $87.00 from JA-1. (-) New Balance: $8133.00 Transaction #500
+Agent DT3 deposits $438.00 into JA-1. (+) New Balance: $8571.00 Transaction #501
+Agent WT0 withdraws $15.00 from JA-2. (-) New Balance: $9242.00 Transaction #502
+Agent WT6 withdraws $59.00 from JA-2. (-) New Balance: $9183.00 Transaction #503
+Agent WT2 withdraws $47.00 from JA-2. (-) New Balance: $9136.00 Transaction #504
+Agent WT8 withdraws $67.00 from JA-1. (-) New Balance: $8504.00 Transaction #505
+Agent WT1 withdraws $77.00 from JA-1. (-) New Balance: $8427.00 Transaction #506
+Agent WT0 withdraws $98.00 from JA-2. (-) New Balance: $9038.00 Transaction #507
+* * * Flagged Transaction * * * Agent WT0 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT5 withdraws $93.00 from JA-2. (-) New Balance: $8945.00 Transaction #508
+* * * Flagged Transaction * * * Agent WT5 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT0 deposits $304.00 into JA-1. (+) New Balance: $8731.00 Transaction #509
+Agent WT4 withdraws $63.00 from JA-2. (-) New Balance: $8882.00 Transaction #510
+Agent WT7 withdraws $51.00 from JA-1. (-) New Balance: $8680.00 Transaction #511
+Agent WT2 withdraws $94.00 from JA-2. (-) New Balance: $8788.00 Transaction #512
+* * * Flagged Transaction * * * Agent WT2 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT2 deposits $19.00 into JA-2. (+) New Balance: $8807.00 Transaction #513
+Agent WT5 withdraws $6.00 from JA-2. (-) New Balance: $8801.00 Transaction #514
+Agent WT5 withdraws $65.00 from JA-2. (-) New Balance: $8736.00 Transaction #515
+Agent WT9 withdraws $31.00 from JA-2. (-) New Balance: $8705.00 Transaction #516
+Agent WT6 withdraws $73.00 from JA-2. (-) New Balance: $8632.00 Transaction #517
+Agent DT1 deposits $67.00 into JA-1. (+) New Balance: $8747.00 Transaction #518
+Agent DT0 deposits $509.00 into JA-1. (+) New Balance: $9256.00 Transaction #519
+* * * Flagged Transaction * * * Agent DT0 made a deposit over $450 USD - See Flagged Transaction Log
+Agent DT1 deposits $541.00 into JA-1. (+) New Balance: $9797.00 Transaction #520
+Agent WT4 withdraws $78.00 from JA-2. (-) New Balance: $8510.00 Transaction #521
+Agent WT3 withdraws $44.00 from JA-2. (-) New Balance: $8510.00 Transaction #522
+Agent WT8 withdraws $21.00 from JA-1. (-) New Balance: $9776.00 Transaction #523
+TRANSFER --> Agent TR1 transferring $23.00 from JA-2 to JA-1 -- JA-2 Balance: $8487.00, JA-1 Balance: $9799.00 Transaction #524
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT7 withdraws $61.00 from JA-1. (-) New Balance: $9738.00 Transaction #525
+Agent WT5 withdraws $19.00 from JA-1. (-) New Balance: $9719.00 Transaction #526
+Agent WT9 withdraws $79.00 from JA-1. (-) New Balance: $9640.00 Transaction #527
+Agent WT2 withdraws $19.00 from JA-2. (-) New Balance: $8468.00 Transaction #528
+Agent DT1 deposits $220.00 into JA-1. (+) New Balance: $9860.00 Transaction #529
+Agent WT0 withdraws $72.00 from JA-2. (-) New Balance: $8396.00 Transaction #530
+Agent DT4 deposits $186.00 into JA-1. (+) New Balance: $10046.00 Transaction #531
+Agent WT9 withdraws $56.00 from JA-2. (-) New Balance: $8340.00 Transaction #532
+Agent WT1 withdraws $24.00 from JA-1. (-) New Balance: $10022.00 Transaction #533
+Agent DT3 deposits $341.00 into JA-2. (+) New Balance: $8681.00 Transaction #534
+Agent WT9 withdraws $50.00 from JA-1. (-) New Balance: $9972.00 Transaction #535
+Agent WT1 withdraws $80.00 from JA-1. (-) New Balance: $9892.00 Transaction #536
+Agent WT4 withdraws $39.00 from JA-2. (-) New Balance: $8642.00 Transaction #537
+TRANSFER --> Agent TR1 transferring $4.00 from JA-1 to JA-2 -- JA-1 Balance: $9888.00, JA-2 Balance: $8646.00 Transaction #538
+Agent WT6 withdraws $37.00 from JA-2. (-) New Balance: $8609.00 Transaction #539
+
+****************************************************************************************************
+
+UNITED STATES DEPARTMENT OF TREASURY - BANK AUDIT BEGINNING...
+	The total number of transactions since the last Internal Audit: 540
+	TREASURY DEPT AUDITOR FINDS CURRENT BALANCE FOR JA-1 TO BE: $9888.00
+	TREASURY DEPT AUDITOR FINDS CURRENT BALANCE FOR JA-2 TO BE: $8609.00
+	Treasury reports the total balance across all accounts is: $18497.00
+UNITED STATES DEPARTMENT OF TREASURY - BANK AUDIT COMPLETED...
+
+****************************************************************************************************
+
+****************************************************************************************************
+INTERNAL BANK AUDIT BEGINNING...
+	The total number of transactions since the last Internal Audit: 541
+	INTERNAL AUDITOR FINDS CURRENT BALANCE FOR JA-1 TO BE: $9888.00
+	INTERNAL AUDITOR FINDS CURRENT BALANCE FOR JA-2 TO BE: $8609.00
+INTERNAL BANK AUDIT COMPLETED...
+****************************************************************************************************
+Agent WT7 withdraws $41.00 from JA-2. (-) New Balance: $8568.00 Transaction #542
+Agent WT8 withdraws $98.00 from JA-1. (-) New Balance: $9790.00 Transaction #543
+* * * Flagged Transaction * * * Agent WT8 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT0 withdraws $10.00 from JA-1. (-) New Balance: $9780.00 Transaction #544
+Agent WT0 withdraws $80.00 from JA-2. (-) New Balance: $8488.00 Transaction #545
+Agent WT0 withdraws $96.00 from JA-1. (-) New Balance: $9684.00 Transaction #546
+* * * Flagged Transaction * * * Agent WT0 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT5 withdraws $28.00 from JA-2. (-) New Balance: $8460.00 Transaction #547
+TRANSFER --> Agent TR1 transferring $16.00 from JA-1 to JA-2 -- JA-1 Balance: $9668.00, JA-2 Balance: $8476.00 Transaction #548
+Agent WT6 withdraws $91.00 from JA-1. (-) New Balance: $9577.00 Transaction #549
+Agent WT3 withdraws $88.00 from JA-2. (-) New Balance: $8388.00 Transaction #550
+* * * Flagged Transaction * * * Agent WT6 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT2 deposits $173.00 into JA-1. (+) New Balance: $9750.00 Transaction #551
+Agent WT2 withdraws $20.00 from JA-2. (-) New Balance: $8368.00 Transaction #552
+Agent DT1 deposits $143.00 into JA-2. (+) New Balance: $8511.00 Transaction #553
+Agent WT5 withdraws $41.00 from JA-2. (-) New Balance: $8470.00 Transaction #554
+Agent WT9 withdraws $4.00 from JA-2. (-) New Balance: $8466.00 Transaction #555
+Agent WT1 withdraws $25.00 from JA-1. (-) New Balance: $9725.00 Transaction #556
+Agent WT7 withdraws $30.00 from JA-1. (-) New Balance: $9695.00 Transaction #557
+Agent WT6 withdraws $17.00 from JA-1. (-) New Balance: $9678.00 Transaction #558
+Agent WT1 withdraws $39.00 from JA-2. (-) New Balance: $8427.00 Transaction #559
+Agent WT7 withdraws $91.00 from JA-2. (-) New Balance: $8336.00 Transaction #560
+* * * Flagged Transaction * * * Agent WT7 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT4 withdraws $69.00 from JA-2. (-) New Balance: $8267.00 Transaction #561
+Agent WT9 withdraws $72.00 from JA-2. (-) New Balance: $8195.00 Transaction #562
+Agent WT9 withdraws $62.00 from JA-1. (-) New Balance: $9616.00 Transaction #563
+Agent WT8 withdraws $42.00 from JA-2. (-) New Balance: $8153.00 Transaction #564
+Agent WT0 withdraws $38.00 from JA-1. (-) New Balance: $9578.00 Transaction #565
+Agent WT3 withdraws $67.00 from JA-1. (-) New Balance: $9511.00 Transaction #566
+Agent DT0 deposits $337.00 into JA-2. (+) New Balance: $8490.00 Transaction #567
+Agent DT4 deposits $56.00 into JA-1. (+) New Balance: $9567.00 Transaction #568
+Agent DT2 deposits $282.00 into JA-1. (+) New Balance: $9849.00 Transaction #569
+Agent WT1 withdraws $63.00 from JA-2. (-) New Balance: $8427.00 Transaction #570
+Agent WT7 withdraws $23.00 from JA-2. (-) New Balance: $8404.00 Transaction #571
+Agent DT0 deposits $20.00 into JA-1. (+) New Balance: $9869.00 Transaction #572
+Agent DT1 deposits $160.00 into JA-2. (+) New Balance: $8564.00 Transaction #573
+Agent WT0 withdraws $21.00 from JA-1. (-) New Balance: $9848.00 Transaction #574
+Agent WT8 withdraws $61.00 from JA-2. (-) New Balance: $8503.00 Transaction #575
+Agent DT2 deposits $337.00 into JA-1. (+) New Balance: $10185.00 Transaction #576
+Agent WT6 withdraws $80.00 from JA-2. (-) New Balance: $8423.00 Transaction #577
+Agent WT2 withdraws $64.00 from JA-2. (-) New Balance: $8359.00 Transaction #578
+Agent WT5 withdraws $82.00 from JA-1. (-) New Balance: $10103.00 Transaction #579
+Agent WT3 withdraws $50.00 from JA-2. (-) New Balance: $8309.00 Transaction #580
+Agent WT5 withdraws $47.00 from JA-2. (-) New Balance: $8262.00 Transaction #581
+Agent WT0 withdraws $96.00 from JA-2. (-) New Balance: $8166.00 Transaction #582
+Agent DT3 deposits $129.00 into JA-2. (+) New Balance: $8295.00 Transaction #583
+* * * Flagged Transaction * * * Agent WT0 made a withdrawal over $90 USD - See Flagged Transaction Log
+TRANSFER --> Agent TR0 transferring $16.00 from JA-1 to JA-2 -- JA-1 Balance: $10087.00, JA-2 Balance: $8311.00 Transaction #584
+Agent WT1 withdraws $67.00 from JA-2. (-) New Balance: $8244.00 Transaction #585
+Agent WT4 withdraws $99.00 from JA-2. (-) New Balance: $8145.00 Transaction #586
+* * * Flagged Transaction * * * Agent WT4 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT9 withdraws $48.00 from JA-2. (-) New Balance: $8097.00 Transaction #587
+Agent WT9 withdraws $55.00 from JA-1. (-) New Balance: $10032.00 Transaction #588
+TRANSFER --> Agent TR0 transferring $49.00 from JA-1 to JA-2 -- JA-1 Balance: $9983.00, JA-2 Balance: $8146.00 Transaction #589
+Agent WT7 withdraws $95.00 from JA-2. (-) New Balance: $8051.00 Transaction #590
+Agent DT2 deposits $303.00 into JA-2. (+) New Balance: $8354.00 Transaction #591
+* * * Flagged Transaction * * * Agent WT7 made a withdrawal over $90 USD - See Flagged Transaction Log
+TRANSFER --> Agent TR1 transferring $29.00 from JA-2 to JA-1 -- JA-2 Balance: $8325.00, JA-1 Balance: $10012.00 Transaction #592
+Agent DT2 deposits $167.00 into JA-2. (+) New Balance: $8492.00 Transaction #593
+TRANSFER --> Agent TR1 transferring $43.00 from JA-1 to JA-2 -- JA-1 Balance: $9969.00, JA-2 Balance: $8535.00 Transaction #594
+Agent WT2 withdraws $93.00 from JA-2. (-) New Balance: $8442.00 Transaction #595
+* * * Flagged Transaction * * * Agent WT2 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT4 deposits $142.00 into JA-2. (+) New Balance: $8584.00 Transaction #596
+Agent WT8 withdraws $91.00 from JA-2. (-) New Balance: $8493.00 Transaction #597
+* * * Flagged Transaction * * * Agent WT8 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT6 withdraws $87.00 from JA-1. (-) New Balance: $9882.00 Transaction #598
+Agent WT7 withdraws $98.00 from JA-2. (-) New Balance: $8395.00 Transaction #599
+* * * Flagged Transaction * * * Agent WT7 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT0 deposits $239.00 into JA-1. (+) New Balance: $10121.00 Transaction #600
+Agent WT5 withdraws $91.00 from JA-1. (-) New Balance: $10030.00 Transaction #601
+* * * Flagged Transaction * * * Agent WT5 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT2 withdraws $30.00 from JA-1. (-) New Balance: $10000.00 Transaction #602
+Agent WT3 withdraws $35.00 from JA-2. (-) New Balance: $8360.00 Transaction #603
+Agent WT5 withdraws $64.00 from JA-2. (-) New Balance: $8296.00 Transaction #604
+Agent WT1 withdraws $95.00 from JA-2. (-) New Balance: $8201.00 Transaction #605
+* * * Flagged Transaction * * * Agent WT1 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT0 deposits $150.00 into JA-1. (+) New Balance: $10150.00 Transaction #606
+Agent WT0 withdraws $88.00 from JA-1. (-) New Balance: $10062.00 Transaction #607
+Agent WT4 withdraws $82.00 from JA-1. (-) New Balance: $9980.00 Transaction #608
+Agent DT1 deposits $122.00 into JA-2. (+) New Balance: $8323.00 Transaction #609
+Agent WT0 withdraws $80.00 from JA-1. (-) New Balance: $9900.00 Transaction #610
+Agent WT6 withdraws $54.00 from JA-2. (-) New Balance: $8269.00 Transaction #611
+Agent WT9 withdraws $99.00 from JA-2. (-) New Balance: $8170.00 Transaction #612
+* * * Flagged Transaction * * * Agent WT9 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT3 withdraws $20.00 from JA-2. (-) New Balance: $8150.00 Transaction #613
+Agent WT1 withdraws $70.00 from JA-1. (-) New Balance: $9830.00 Transaction #614
+Agent WT3 withdraws $35.00 from JA-2. (-) New Balance: $8115.00 Transaction #615
+Agent WT2 withdraws $30.00 from JA-2. (-) New Balance: $8085.00 Transaction #616
+Agent WT8 withdraws $52.00 from JA-1. (-) New Balance: $9778.00 Transaction #617
+Agent WT9 withdraws $27.00 from JA-1. (-) New Balance: $9751.00 Transaction #618
+Agent WT1 withdraws $94.00 from JA-2. (-) New Balance: $7991.00 Transaction #619
+* * * Flagged Transaction * * * Agent WT1 made a withdrawal over $90 USD - See Flagged Transaction Log
+TRANSFER --> Agent TR1 transferring $8.00 from JA-2 to JA-1 -- JA-2 Balance: $7983.00, JA-1 Balance: $9759.00 Transaction #620
+Agent WT7 withdraws $11.00 from JA-1. (-) New Balance: $9748.00 Transaction #621
+Agent WT0 withdraws $95.00 from JA-2. (-) New Balance: $7888.00 Transaction #622
+Agent WT9 withdraws $48.00 from JA-1. (-) New Balance: $9700.00 Transaction #623
+* * * Flagged Transaction * * * Agent WT0 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT2 withdraws $87.00 from JA-2. (-) New Balance: $7801.00 Transaction #624
+Agent DT1 deposits $184.00 into JA-1. (+) New Balance: $9884.00 Transaction #625
+Agent DT3 deposits $166.00 into JA-2. (+) New Balance: $7967.00 Transaction #626
+Agent DT4 deposits $273.00 into JA-2. (+) New Balance: $8240.00 Transaction #627
+Agent DT2 deposits $397.00 into JA-2. (+) New Balance: $8637.00 Transaction #628
+Agent WT6 withdraws $84.00 from JA-2. (-) New Balance: $8553.00 Transaction #629
+Agent WT6 withdraws $74.00 from JA-1. (-) New Balance: $9810.00 Transaction #630
+Agent WT4 withdraws $61.00 from JA-2. (-) New Balance: $8492.00 Transaction #631
+Agent DT3 deposits $2.00 into JA-2. (+) New Balance: $8494.00 Transaction #632
+Agent WT5 withdraws $71.00 from JA-1. (-) New Balance: $9739.00 Transaction #633
+Agent WT4 withdraws $20.00 from JA-2. (-) New Balance: $8474.00 Transaction #634
+Agent DT0 deposits $428.00 into JA-2. (+) New Balance: $8902.00 Transaction #635
+Agent WT8 withdraws $18.00 from JA-2. (-) New Balance: $8884.00 Transaction #636
+Agent WT5 withdraws $13.00 from JA-2. (-) New Balance: $8871.00 Transaction #637
+Agent WT7 withdraws $8.00 from JA-2. (-) New Balance: $8863.00 Transaction #638
+Agent WT0 withdraws $98.00 from JA-2. (-) New Balance: $8679.00 Transaction #639
+Agent WT5 withdraws $86.00 from JA-2. (-) New Balance: $8679.00 Transaction #640
+* * * Flagged Transaction * * * Agent WT0 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT1 withdraws $83.00 from JA-2. (-) New Balance: $8596.00 Transaction #641
+Agent WT3 withdraws $1.00 from JA-2. (-) New Balance: $8595.00 Transaction #642
+Agent WT8 withdraws $23.00 from JA-1. (-) New Balance: $9716.00 Transaction #643
+Agent WT7 withdraws $79.00 from JA-1. (-) New Balance: $9637.00 Transaction #644
+Agent DT3 deposits $22.00 into JA-2. (+) New Balance: $8617.00 Transaction #645
+Agent DT0 deposits $403.00 into JA-2. (+) New Balance: $9020.00 Transaction #646
+Agent WT2 withdraws $4.00 from JA-1. (-) New Balance: $9633.00 Transaction #647
+Agent WT9 withdraws $84.00 from JA-2. (-) New Balance: $8936.00 Transaction #648
+Agent WT5 withdraws $1.00 from JA-1. (-) New Balance: $9632.00 Transaction #649
+Agent WT0 withdraws $80.00 from JA-1. (-) New Balance: $9552.00 Transaction #650
+Agent WT4 withdraws $94.00 from JA-1. (-) New Balance: $9458.00 Transaction #651
+* * * Flagged Transaction * * * Agent WT4 made a withdrawal over $90 USD - See Flagged Transaction Log
+TRANSFER --> Agent TR1 transferring $31.00 from JA-1 to JA-2 -- JA-1 Balance: $9427.00, JA-2 Balance: $8967.00 Transaction #652
+Agent WT7 withdraws $48.00 from JA-2. (-) New Balance: $8919.00 Transaction #653
+Agent WT1 withdraws $91.00 from JA-1. (-) New Balance: $9336.00 Transaction #654
+* * * Flagged Transaction * * * Agent WT1 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT7 withdraws $64.00 from JA-2. (-) New Balance: $8855.00 Transaction #655
+Agent WT2 withdraws $68.00 from JA-1. (-) New Balance: $9268.00 Transaction #656
+Agent WT6 withdraws $41.00 from JA-2. (-) New Balance: $8814.00 Transaction #657
+Agent DT0 deposits $113.00 into JA-1. (+) New Balance: $9381.00 Transaction #658
+Agent DT1 deposits $441.00 into JA-2. (+) New Balance: $9255.00 Transaction #659
+Agent WT6 withdraws $74.00 from JA-1. (-) New Balance: $9307.00 Transaction #660
+Agent WT7 withdraws $72.00 from JA-2. (-) New Balance: $9183.00 Transaction #661
+Agent DT1 deposits $500.00 into JA-1. (+) New Balance: $9807.00 Transaction #662
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT3 withdraws $75.00 from JA-1. (-) New Balance: $9732.00 Transaction #663
+Agent WT9 withdraws $63.00 from JA-2. (-) New Balance: $9120.00 Transaction #664
+Agent WT0 withdraws $27.00 from JA-1. (-) New Balance: $9705.00 Transaction #665
+Agent DT0 deposits $537.00 into JA-2. (+) New Balance: $9657.00 Transaction #666
+* * * Flagged Transaction * * * Agent DT0 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT5 withdraws $97.00 from JA-2. (-) New Balance: $9560.00 Transaction #667
+* * * Flagged Transaction * * * Agent WT5 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT8 withdraws $56.00 from JA-2. (-) New Balance: $9504.00 Transaction #668
+Agent WT9 withdraws $41.00 from JA-2. (-) New Balance: $9463.00 Transaction #669
+Agent WT8 withdraws $43.00 from JA-2. (-) New Balance: $9420.00 Transaction #670
+Agent WT2 withdraws $74.00 from JA-2. (-) New Balance: $9601.00 Transaction #672
+Agent DT3 deposits $255.00 into JA-2. (+) New Balance: $9601.00 Transaction #671
+TRANSFER --> Agent TR0 transferring $18.00 from JA-2 to JA-1 -- JA-2 Balance: $9583.00, JA-1 Balance: $9723.00 Transaction #673
+Agent WT4 withdraws $22.00 from JA-1. (-) New Balance: $9701.00 Transaction #674
+Agent WT6 withdraws $79.00 from JA-1. (-) New Balance: $9622.00 Transaction #675
+Agent DT4 deposits $322.00 into JA-2. (+) New Balance: $9905.00 Transaction #676
+Agent DT2 deposits $499.00 into JA-2. (+) New Balance: $10322.00 Transaction #678
+Agent WT1 withdraws $82.00 from JA-2. (-) New Balance: $9823.00 Transaction #677
+* * * Flagged Transaction * * * Agent DT2 made a deposit over $450 USD - See Flagged Transaction Log
+TRANSFER --> Agent TR0 transferring $47.00 from JA-2 to JA-1 -- JA-2 Balance: $10275.00, JA-1 Balance: $9669.00 Transaction #679
+Agent WT3 withdraws $61.00 from JA-2. (-) New Balance: $10214.00 Transaction #680
+Agent WT7 withdraws $53.00 from JA-2. (-) New Balance: $10161.00 Transaction #681
+Agent WT0 withdraws $10.00 from JA-1. (-) New Balance: $9659.00 Transaction #682
+Agent WT7 withdraws $98.00 from JA-2. (-) New Balance: $10063.00 Transaction #683
+* * * Flagged Transaction * * * Agent WT7 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT2 withdraws $66.00 from JA-1. (-) New Balance: $9593.00 Transaction #684
+Agent WT3 withdraws $55.00 from JA-2. (-) New Balance: $10008.00 Transaction #685
+Agent WT1 withdraws $25.00 from JA-1. (-) New Balance: $9568.00 Transaction #686
+Agent WT4 withdraws $23.00 from JA-1. (-) New Balance: $9545.00 Transaction #687
+Agent WT5 withdraws $70.00 from JA-1. (-) New Balance: $9475.00 Transaction #688
+Agent WT1 withdraws $10.00 from JA-2. (-) New Balance: $9998.00 Transaction #689
+Agent WT4 withdraws $1.00 from JA-1. (-) New Balance: $9474.00 Transaction #690
+Agent DT1 deposits $65.00 into JA-2. (+) New Balance: $10063.00 Transaction #691
+Agent WT7 withdraws $23.00 from JA-2. (-) New Balance: $10040.00 Transaction #692
+Agent WT5 withdraws $43.00 from JA-2. (-) New Balance: $10067.00 Transaction #694
+Agent DT0 deposits $70.00 into JA-2. (+) New Balance: $10067.00 Transaction #693
+Agent WT8 withdraws $82.00 from JA-2. (-) New Balance: $9985.00 Transaction #695
+Agent WT9 withdraws $22.00 from JA-2. (-) New Balance: $9963.00 Transaction #696
+Agent WT4 withdraws $74.00 from JA-2. (-) New Balance: $9889.00 Transaction #697
+TRANSFER --> Agent TR1 transferring $32.00 from JA-2 to JA-1 -- JA-2 Balance: $9857.00, JA-1 Balance: $9506.00 Transaction #698
+Agent WT9 withdraws $37.00 from JA-2. (-) New Balance: $9820.00 Transaction #699
+Agent WT3 withdraws $18.00 from JA-2. (-) New Balance: $9802.00 Transaction #700
+Agent WT6 withdraws $93.00 from JA-2. (-) New Balance: $9709.00 Transaction #701
+* * * Flagged Transaction * * * Agent WT6 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT4 withdraws $27.00 from JA-1. (-) New Balance: $9479.00 Transaction #702
+Agent WT7 withdraws $89.00 from JA-1. (-) New Balance: $9390.00 Transaction #703
+Agent WT8 withdraws $43.00 from JA-2. (-) New Balance: $9666.00 Transaction #704
+Agent WT1 withdraws $50.00 from JA-1. (-) New Balance: $9340.00 Transaction #705
+Agent WT2 withdraws $47.00 from JA-2. (-) New Balance: $9619.00 Transaction #706
+Agent WT8 withdraws $9.00 from JA-2. (-) New Balance: $9610.00 Transaction #707
+Agent WT0 withdraws $52.00 from JA-2. (-) New Balance: $9558.00 Transaction #708
+Agent WT1 withdraws $76.00 from JA-1. (-) New Balance: $9264.00 Transaction #709
+Agent WT7 withdraws $69.00 from JA-1. (-) New Balance: $9195.00 Transaction #710
+Agent WT7 withdraws $41.00 from JA-2. (-) New Balance: $9517.00 Transaction #711
+Agent WT2 withdraws $45.00 from JA-2. (-) New Balance: $9472.00 Transaction #712
+Agent WT5 withdraws $98.00 from JA-1. (-) New Balance: $9097.00 Transaction #713
+* * * Flagged Transaction * * * Agent WT5 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT4 withdraws $96.00 from JA-1. (-) New Balance: $9001.00 Transaction #714
+* * * Flagged Transaction * * * Agent WT4 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT4 deposits $185.00 into JA-1. (+) New Balance: $9186.00 Transaction #715
+Agent WT9 withdraws $99.00 from JA-1. (-) New Balance: $9261.00 Transaction #716
+Agent DT2 deposits $174.00 into JA-1. (+) New Balance: $9261.00 Transaction #717
+* * * Flagged Transaction * * * Agent WT9 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT3 deposits $170.00 into JA-2. (+) New Balance: $9642.00 Transaction #718
+Agent WT3 withdraws $51.00 from JA-2. (-) New Balance: $9591.00 Transaction #719
+Agent WT8 withdraws $49.00 from JA-2. (-) New Balance: $9542.00 Transaction #720
+Agent WT6 withdraws $66.00 from JA-1. (-) New Balance: $9195.00 Transaction #721
+Agent WT0 withdraws $57.00 from JA-2. (-) New Balance: $9485.00 Transaction #722
+Agent WT7 withdraws $3.00 from JA-2. (-) New Balance: $9482.00 Transaction #723
+TRANSFER --> Agent TR1 transferring $6.00 from JA-2 to JA-1 -- JA-2 Balance: $9476.00, JA-1 Balance: $9201.00 Transaction #724
+Agent WT3 withdraws $76.00 from JA-2. (-) New Balance: $9400.00 Transaction #725
+Agent WT8 withdraws $36.00 from JA-2. (-) New Balance: $9364.00 Transaction #726
+Agent WT4 withdraws $90.00 from JA-1. (-) New Balance: $9111.00 Transaction #727
+Agent WT8 withdraws $98.00 from JA-1. (-) New Balance: $9013.00 Transaction #728
+Agent WT0 withdraws $5.00 from JA-1. (-) New Balance: $9008.00 Transaction #729
+* * * Flagged Transaction * * * Agent WT8 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT1 withdraws $65.00 from JA-2. (-) New Balance: $9299.00 Transaction #730
+Agent WT1 withdraws $62.00 from JA-1. (-) New Balance: $8946.00 Transaction #731
+Agent DT4 deposits $570.00 into JA-1. (+) New Balance: $9516.00 Transaction #732
+* * * Flagged Transaction * * * Agent DT4 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT2 withdraws $3.00 from JA-1. (-) New Balance: $9513.00 Transaction #733
+Agent DT2 deposits $566.00 into JA-2. (+) New Balance: $9865.00 Transaction #734
+Agent WT4 withdraws $76.00 from JA-2. (-) New Balance: $9789.00 Transaction #735
+* * * Flagged Transaction * * * Agent DT2 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT1 withdraws $77.00 from JA-2. (-) New Balance: $9712.00 Transaction #736
+Agent DT1 deposits $593.00 into JA-1. (+) New Balance: $10106.00 Transaction #737
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT5 withdraws $8.00 from JA-1. (-) New Balance: $10098.00 Transaction #738
+Agent DT1 deposits $474.00 into JA-1. (+) New Balance: $10572.00 Transaction #739
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT9 withdraws $20.00 from JA-1. (-) New Balance: $10552.00 Transaction #740
+Agent WT2 withdraws $49.00 from JA-2. (-) New Balance: $9663.00 Transaction #741
+Agent WT7 withdraws $86.00 from JA-2. (-) New Balance: $9577.00 Transaction #742
+Agent DT4 deposits $313.00 into JA-1. (+) New Balance: $10865.00 Transaction #743
+Agent DT0 deposits $314.00 into JA-2. (+) New Balance: $9891.00 Transaction #744
+Agent WT2 withdraws $56.00 from JA-1. (-) New Balance: $10809.00 Transaction #745
+Agent WT2 withdraws $77.00 from JA-2. (-) New Balance: $9814.00 Transaction #746
+Agent WT6 withdraws $28.00 from JA-1. (-) New Balance: $10781.00 Transaction #747
+Agent WT0 withdraws $58.00 from JA-2. (-) New Balance: $9756.00 Transaction #748
+Agent WT4 withdraws $63.00 from JA-2. (-) New Balance: $9693.00 Transaction #749
+Agent WT8 withdraws $35.00 from JA-2. (-) New Balance: $9658.00 Transaction #750
+Agent WT1 withdraws $93.00 from JA-2. (-) New Balance: $9565.00 Transaction #751
+* * * Flagged Transaction * * * Agent WT1 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT3 withdraws $54.00 from JA-2. (-) New Balance: $9511.00 Transaction #752
+Agent WT7 withdraws $12.00 from JA-1. (-) New Balance: $10769.00 Transaction #753
+Agent WT9 withdraws $52.00 from JA-2. (-) New Balance: $9459.00 Transaction #754
+Agent DT4 deposits $245.00 into JA-2. (+) New Balance: $9704.00 Transaction #755
+Agent WT2 withdraws $87.00 from JA-2. (-) New Balance: $9617.00 Transaction #756
+Agent WT1 withdraws $20.00 from JA-1. (-) New Balance: $10749.00 Transaction #757
+Agent WT3 withdraws $90.00 from JA-2. (-) New Balance: $9527.00 Transaction #758
+TRANSFER --> Agent TR0 transferring $44.00 from JA-1 to JA-2 -- JA-1 Balance: $10705.00, JA-2 Balance: $9571.00 Transaction #759
+Agent WT8 withdraws $89.00 from JA-2. (-) New Balance: $9482.00 Transaction #760
+Agent WT5 withdraws $54.00 from JA-2. (-) New Balance: $9428.00 Transaction #761
+Agent WT8 withdraws $66.00 from JA-1. (-) New Balance: $10639.00 Transaction #762
+Agent WT4 withdraws $70.00 from JA-2. (-) New Balance: $9358.00 Transaction #763
+Agent WT6 withdraws $18.00 from JA-2. (-) New Balance: $9340.00 Transaction #764
+Agent WT7 withdraws $64.00 from JA-1. (-) New Balance: $10575.00 Transaction #765
+Agent WT8 withdraws $14.00 from JA-2. (-) New Balance: $9326.00 Transaction #766
+Agent WT3 withdraws $51.00 from JA-1. (-) New Balance: $10524.00 Transaction #767
+Agent DT3 deposits $571.00 into JA-2. (+) New Balance: $9897.00 Transaction #768
+* * * Flagged Transaction * * * Agent DT3 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT8 withdraws $35.00 from JA-1. (-) New Balance: $10489.00 Transaction #769
+Agent WT6 withdraws $7.00 from JA-2. (-) New Balance: $9890.00 Transaction #770
+Agent WT1 withdraws $86.00 from JA-2. (-) New Balance: $9804.00 Transaction #771
+Agent WT0 withdraws $95.00 from JA-1. (-) New Balance: $10394.00 Transaction #772
+* * * Flagged Transaction * * * Agent WT0 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT2 withdraws $16.00 from JA-1. (-) New Balance: $10378.00 Transaction #773
+Agent WT3 withdraws $59.00 from JA-1. (-) New Balance: $10319.00 Transaction #774
+Agent WT7 withdraws $8.00 from JA-1. (-) New Balance: $10311.00 Transaction #775
+Agent DT2 deposits $93.00 into JA-1. (+) New Balance: $10404.00 Transaction #776
+Agent WT9 withdraws $93.00 from JA-1. (-) New Balance: $10311.00 Transaction #777
+* * * Flagged Transaction * * * Agent WT9 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT5 withdraws $47.00 from JA-1. (-) New Balance: $10264.00 Transaction #778
+Agent WT4 withdraws $27.00 from JA-2. (-) New Balance: $9777.00 Transaction #779
+TRANSFER --> Agent TR1 transferring $31.00 from JA-1 to JA-2 -- JA-1 Balance: $10233.00, JA-2 Balance: $9808.00 Transaction #780
+Agent WT0 withdraws $67.00 from JA-2. (-) New Balance: $9741.00 Transaction #781
+Agent WT5 withdraws $2.00 from JA-2. (-) New Balance: $9739.00 Transaction #782
+Agent DT1 deposits $81.00 into JA-1. (+) New Balance: $10314.00 Transaction #783
+Agent WT8 withdraws $72.00 from JA-1. (-) New Balance: $10242.00 Transaction #784
+Agent WT2 withdraws $5.00 from JA-2. (-) New Balance: $9734.00 Transaction #785
+Agent WT7 withdraws $23.00 from JA-1. (-) New Balance: $10219.00 Transaction #786
+****************************************************************************************************
+INTERNAL BANK AUDIT BEGINNING...
+	The total number of transactions since the last Internal Audit: 787
+	INTERNAL AUDITOR FINDS CURRENT BALANCE FOR JA-1 TO BE: $10219.00
+	INTERNAL AUDITOR FINDS CURRENT BALANCE FOR JA-2 TO BE: $9734.00
+INTERNAL BANK AUDIT COMPLETED...
+****************************************************************************************************
+Agent WT1 withdraws $93.00 from JA-1. (-) New Balance: $10126.00 Transaction #788
+* * * Flagged Transaction * * * Agent WT1 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT0 deposits $169.00 into JA-1. (+) New Balance: $10295.00 Transaction #789
+Agent WT3 withdraws $58.00 from JA-1. (-) New Balance: $10237.00 Transaction #790
+Agent WT6 withdraws $23.00 from JA-2. (-) New Balance: $9711.00 Transaction #791
+Agent WT8 withdraws $42.00 from JA-1. (-) New Balance: $10195.00 Transaction #792
+Agent WT6 withdraws $18.00 from JA-1. (-) New Balance: $10177.00 Transaction #793
+Agent DT4 deposits $112.00 into JA-1. (+) New Balance: $10289.00 Transaction #794
+Agent WT1 withdraws $2.00 from JA-1. (-) New Balance: $10287.00 Transaction #795
+Agent WT9 withdraws $5.00 from JA-1. (-) New Balance: $10282.00 Transaction #796
+Agent WT7 withdraws $45.00 from JA-2. (-) New Balance: $9666.00 Transaction #797
+Agent WT0 withdraws $95.00 from JA-2. (-) New Balance: $9571.00 Transaction #798
+* * * Flagged Transaction * * * Agent WT0 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT8 withdraws $24.00 from JA-2. (-) New Balance: $9547.00 Transaction #799
+Agent DT0 deposits $79.00 into JA-2. (+) New Balance: $9626.00 Transaction #800
+Agent WT2 withdraws $70.00 from JA-2. (-) New Balance: $9556.00 Transaction #801
+Agent WT8 withdraws $96.00 from JA-1. (-) New Balance: $10186.00 Transaction #802
+* * * Flagged Transaction * * * Agent WT8 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT0 withdraws $66.00 from JA-1. (-) New Balance: $10120.00 Transaction #803
+Agent WT4 withdraws $48.00 from JA-1. (-) New Balance: $10072.00 Transaction #804
+Agent DT4 deposits $377.00 into JA-2. (+) New Balance: $9933.00 Transaction #805
+Agent WT6 withdraws $54.00 from JA-1. (-) New Balance: $10018.00 Transaction #806
+Agent WT5 withdraws $45.00 from JA-2. (-) New Balance: $9888.00 Transaction #807
+Agent WT9 withdraws $63.00 from JA-1. (-) New Balance: $9955.00 Transaction #808
+Agent DT2 deposits $298.00 into JA-2. (+) New Balance: $10186.00 Transaction #809
+Agent WT7 withdraws $18.00 from JA-2. (-) New Balance: $10168.00 Transaction #810
+Agent WT8 withdraws $56.00 from JA-1. (-) New Balance: $9899.00 Transaction #811
+Agent WT0 withdraws $66.00 from JA-2. (-) New Balance: $10102.00 Transaction #812
+Agent WT8 withdraws $60.00 from JA-2. (-) New Balance: $10042.00 Transaction #813
+Agent WT1 withdraws $42.00 from JA-1. (-) New Balance: $9857.00 Transaction #814
+Agent WT8 withdraws $54.00 from JA-1. (-) New Balance: $9803.00 Transaction #815
+Agent WT3 withdraws $59.00 from JA-2. (-) New Balance: $9983.00 Transaction #816
+Agent DT3 deposits $562.00 into JA-2. (+) New Balance: $10545.00 Transaction #817
+* * * Flagged Transaction * * * Agent DT3 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT1 withdraws $16.00 from JA-2. (-) New Balance: $10529.00 Transaction #818
+Agent WT2 withdraws $71.00 from JA-1. (-) New Balance: $9732.00 Transaction #819
+TRANSFER --> Agent TR1 transferring $42.00 from JA-2 to JA-1 -- JA-2 Balance: $10487.00, JA-1 Balance: $9774.00 Transaction #820
+Agent WT9 withdraws $1.00 from JA-1. (-) New Balance: $9773.00 Transaction #821
+Agent WT1 withdraws $42.00 from JA-2. (-) New Balance: $10445.00 Transaction #822
+Agent WT6 withdraws $75.00 from JA-2. (-) New Balance: $10370.00 Transaction #823
+Agent DT0 deposits $364.00 into JA-2. (+) New Balance: $10734.00 Transaction #824
+Agent WT3 withdraws $1.00 from JA-1. (-) New Balance: $9772.00 Transaction #825
+Agent WT5 withdraws $62.00 from JA-1. (-) New Balance: $9710.00 Transaction #826
+Agent WT4 withdraws $2.00 from JA-2. (-) New Balance: $10882.00 Transaction #827
+Agent DT3 deposits $150.00 into JA-2. (+) New Balance: $10882.00 Transaction #828
+Agent DT4 deposits $56.00 into JA-1. (+) New Balance: $9766.00 Transaction #829
+Agent WT7 withdraws $10.00 from JA-1. (-) New Balance: $9756.00 Transaction #830
+Agent WT3 withdraws $26.00 from JA-1. (-) New Balance: $9730.00 Transaction #831
+Agent WT2 withdraws $37.00 from JA-1. (-) New Balance: $9693.00 Transaction #832
+Agent DT1 deposits $204.00 into JA-2. (+) New Balance: $11086.00 Transaction #833
+Agent WT8 withdraws $31.00 from JA-1. (-) New Balance: $9662.00 Transaction #834
+Agent WT9 withdraws $25.00 from JA-2. (-) New Balance: $11061.00 Transaction #835
+Agent WT0 withdraws $78.00 from JA-1. (-) New Balance: $9584.00 Transaction #836
+Agent WT5 withdraws $64.00 from JA-1. (-) New Balance: $9520.00 Transaction #837
+Agent WT1 withdraws $34.00 from JA-1. (-) New Balance: $9486.00 Transaction #838
+Agent WT3 withdraws $97.00 from JA-1. (-) New Balance: $9389.00 Transaction #839
+* * * Flagged Transaction * * * Agent WT3 made a withdrawal over $90 USD - See Flagged Transaction Log
+TRANSFER --> Agent TR0 transferring $27.00 from JA-1 to JA-2 -- JA-1 Balance: $9362.00, JA-2 Balance: $11088.00 Transaction #840
+Agent DT1 deposits $494.00 into JA-1. (+) New Balance: $9856.00 Transaction #841
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent DT4 deposits $536.00 into JA-2. (+) New Balance: $11624.00 Transaction #842
+* * * Flagged Transaction * * * Agent DT4 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT2 withdraws $25.00 from JA-2. (-) New Balance: $11599.00 Transaction #843
+Agent DT3 deposits $202.00 into JA-1. (+) New Balance: $10058.00 Transaction #844
+Agent WT3 withdraws $18.00 from JA-2. (-) New Balance: $11581.00 Transaction #845
+Agent WT9 withdraws $2.00 from JA-1. (-) New Balance: $10056.00 Transaction #846
+Agent WT7 withdraws $10.00 from JA-1. (-) New Balance: $10046.00 Transaction #847
+Agent WT9 withdraws $90.00 from JA-1. (-) New Balance: $9956.00 Transaction #848
+Agent WT6 withdraws $62.00 from JA-2. (-) New Balance: $11519.00 Transaction #849
+Agent WT4 withdraws $91.00 from JA-1. (-) New Balance: $9865.00 Transaction #850
+* * * Flagged Transaction * * * Agent WT4 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT3 withdraws $45.00 from JA-1. (-) New Balance: $9820.00 Transaction #851
+Agent WT0 withdraws $83.00 from JA-2. (-) New Balance: $11436.00 Transaction #852
+Agent WT1 withdraws $9.00 from JA-2. (-) New Balance: $11427.00 Transaction #853
+Agent DT3 deposits $329.00 into JA-2. (+) New Balance: $11756.00 Transaction #854
+Agent WT5 withdraws $87.00 from JA-1. (-) New Balance: $9733.00 Transaction #855
+Agent WT4 withdraws $67.00 from JA-2. (-) New Balance: $11689.00 Transaction #856
+Agent WT1 withdraws $53.00 from JA-2. (-) New Balance: $11636.00 Transaction #857
+Agent WT3 withdraws $59.00 from JA-2. (-) New Balance: $11577.00 Transaction #858
+Agent DT2 deposits $108.00 into JA-1. (+) New Balance: $9841.00 Transaction #859
+Agent WT3 withdraws $3.00 from JA-2. (-) New Balance: $11574.00 Transaction #860
+Agent WT8 withdraws $40.00 from JA-2. (-) New Balance: $11534.00 Transaction #861
+Agent WT8 withdraws $26.00 from JA-2. (-) New Balance: $11508.00 Transaction #862
+Agent WT8 withdraws $3.00 from JA-2. (-) New Balance: $11505.00 Transaction #863
+Agent WT1 withdraws $74.00 from JA-2. (-) New Balance: $11431.00 Transaction #864
+Agent WT2 withdraws $64.00 from JA-2. (-) New Balance: $11367.00 Transaction #865
+Agent WT3 withdraws $23.00 from JA-2. (-) New Balance: $11344.00 Transaction #866
+Agent DT4 deposits $98.00 into JA-2. (+) New Balance: $11442.00 Transaction #867
+Agent WT7 withdraws $44.00 from JA-2. (-) New Balance: $11398.00 Transaction #868
+Agent WT3 withdraws $2.00 from JA-1. (-) New Balance: $9839.00 Transaction #869
+Agent WT9 withdraws $16.00 from JA-1. (-) New Balance: $9823.00 Transaction #870
+Agent WT0 withdraws $68.00 from JA-1. (-) New Balance: $9755.00 Transaction #871
+Agent WT4 withdraws $29.00 from JA-1. (-) New Balance: $9726.00 Transaction #872
+Agent WT2 withdraws $37.00 from JA-2. (-) New Balance: $11361.00 Transaction #873
+Agent WT6 withdraws $18.00 from JA-1. (-) New Balance: $9708.00 Transaction #874
+Agent DT1 deposits $28.00 into JA-2. (+) New Balance: $11389.00 Transaction #875
+Agent WT8 withdraws $7.00 from JA-1. (-) New Balance: $9701.00 Transaction #876
+Agent DT0 deposits $137.00 into JA-2. (+) New Balance: $11526.00 Transaction #877
+Agent WT7 withdraws $98.00 from JA-2. (-) New Balance: $11428.00 Transaction #878
+* * * Flagged Transaction * * * Agent WT7 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT1 deposits $109.00 into JA-1. (+) New Balance: $9810.00 Transaction #879
+Agent WT5 withdraws $42.00 from JA-1. (-) New Balance: $9768.00 Transaction #881
+Agent WT2 withdraws $22.00 from JA-2. (-) New Balance: $11406.00 Transaction #880
+Agent DT4 deposits $389.00 into JA-1. (+) New Balance: $10157.00 Transaction #882
+Agent WT7 withdraws $50.00 from JA-1. (-) New Balance: $10107.00 Transaction #883
+Agent WT1 withdraws $90.00 from JA-1. (-) New Balance: $10017.00 Transaction #884
+Agent WT3 withdraws $88.00 from JA-2. (-) New Balance: $11318.00 Transaction #885
+Agent WT3 withdraws $24.00 from JA-2. (-) New Balance: $11294.00 Transaction #886
+Agent WT9 withdraws $83.00 from JA-1. (-) New Balance: $9934.00 Transaction #887
+Agent DT1 deposits $184.00 into JA-2. (+) New Balance: $11478.00 Transaction #888
+Agent WT4 withdraws $44.00 from JA-2. (-) New Balance: $11434.00 Transaction #889
+Agent WT0 withdraws $11.00 from JA-2. (-) New Balance: $11423.00 Transaction #890
+Agent WT9 withdraws $69.00 from JA-1. (-) New Balance: $9865.00 Transaction #891
+Agent WT7 withdraws $89.00 from JA-2. (-) New Balance: $11334.00 Transaction #892
+Agent WT6 withdraws $50.00 from JA-2. (-) New Balance: $11284.00 Transaction #893
+Agent WT5 withdraws $71.00 from JA-2. (-) New Balance: $11213.00 Transaction #894
+Agent WT4 withdraws $11.00 from JA-2. (-) New Balance: $11202.00 Transaction #895
+Agent WT2 withdraws $82.00 from JA-2. (-) New Balance: $11120.00 Transaction #896
+Agent WT1 withdraws $6.00 from JA-2. (-) New Balance: $11114.00 Transaction #897
+Agent WT8 withdraws $52.00 from JA-2. (-) New Balance: $11062.00 Transaction #898
+Agent WT4 withdraws $81.00 from JA-1. (-) New Balance: $9784.00 Transaction #899
+Agent DT4 deposits $580.00 into JA-2. (+) New Balance: $11642.00 Transaction #900
+* * * Flagged Transaction * * * Agent DT4 made a deposit over $450 USD - See Flagged Transaction Log
+Agent DT2 deposits $493.00 into JA-1. (+) New Balance: $10277.00 Transaction #901
+* * * Flagged Transaction * * * Agent DT2 made a deposit over $450 USD - See Flagged Transaction Log
+Agent DT3 deposits $485.00 into JA-1. (+) New Balance: $10762.00 Transaction #902
+* * * Flagged Transaction * * * Agent DT3 made a deposit over $450 USD - See Flagged Transaction Log
+Agent DT0 deposits $410.00 into JA-2. (+) New Balance: $12052.00 Transaction #903
+TRANSFER --> Agent TR1 transferring $3.00 from JA-1 to JA-2 -- JA-1 Balance: $10759.00, JA-2 Balance: $11999.00 Transaction #905
+Agent WT0 withdraws $56.00 from JA-2. (-) New Balance: $11999.00 Transaction #904
+Agent WT7 withdraws $8.00 from JA-1. (-) New Balance: $10751.00 Transaction #906
+Agent WT3 withdraws $78.00 from JA-2. (-) New Balance: $11921.00 Transaction #907
+Agent WT5 withdraws $67.00 from JA-2. (-) New Balance: $11854.00 Transaction #908
+Agent WT2 withdraws $36.00 from JA-2. (-) New Balance: $11818.00 Transaction #909
+Agent WT6 withdraws $66.00 from JA-2. (-) New Balance: $11752.00 Transaction #910
+Agent WT1 withdraws $19.00 from JA-2. (-) New Balance: $11733.00 Transaction #911
+Agent WT3 withdraws $62.00 from JA-2. (-) New Balance: $11671.00 Transaction #912
+Agent WT5 withdraws $69.00 from JA-2. (-) New Balance: $11602.00 Transaction #913
+Agent WT9 withdraws $55.00 from JA-2. (-) New Balance: $11547.00 Transaction #914
+Agent WT7 withdraws $76.00 from JA-1. (-) New Balance: $10675.00 Transaction #915
+Agent DT2 deposits $259.00 into JA-2. (+) New Balance: $11806.00 Transaction #916
+Agent DT3 deposits $54.00 into JA-2. (+) New Balance: $11860.00 Transaction #917
+Agent DT3 deposits $338.00 into JA-1. (+) New Balance: $11013.00 Transaction #918
+Agent WT9 withdraws $77.00 from JA-2. (-) New Balance: $11783.00 Transaction #919
+Agent WT4 withdraws $24.00 from JA-1. (-) New Balance: $10989.00 Transaction #920
+Agent WT8 withdraws $2.00 from JA-1. (-) New Balance: $10987.00 Transaction #921
+Agent WT6 withdraws $19.00 from JA-1. (-) New Balance: $10968.00 Transaction #922
+Agent DT1 deposits $237.00 into JA-2. (+) New Balance: $12020.00 Transaction #923
+Agent WT0 withdraws $94.00 from JA-1. (-) New Balance: $10874.00 Transaction #924
+* * * Flagged Transaction * * * Agent WT0 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT2 withdraws $35.00 from JA-1. (-) New Balance: $10839.00 Transaction #925
+Agent WT6 withdraws $76.00 from JA-1. (-) New Balance: $10763.00 Transaction #926
+Agent WT0 withdraws $52.00 from JA-2. (-) New Balance: $11968.00 Transaction #927
+Agent DT4 deposits $4.00 into JA-1. (+) New Balance: $10767.00 Transaction #928
+Agent WT7 withdraws $58.00 from JA-1. (-) New Balance: $10709.00 Transaction #929
+Agent WT1 withdraws $72.00 from JA-1. (-) New Balance: $10637.00 Transaction #930
+Agent WT1 withdraws $6.00 from JA-1. (-) New Balance: $10631.00 Transaction #931
+TRANSFER --> Agent TR0 transferring $31.00 from JA-2 to JA-1 -- JA-2 Balance: $11937.00, JA-1 Balance: $10662.00 Transaction #932
+Agent WT4 withdraws $78.00 from JA-2. (-) New Balance: $11859.00 Transaction #933
+Agent WT6 withdraws $80.00 from JA-2. (-) New Balance: $11779.00 Transaction #934
+Agent WT0 withdraws $29.00 from JA-2. (-) New Balance: $11750.00 Transaction #935
+Agent WT1 withdraws $72.00 from JA-1. (-) New Balance: $10590.00 Transaction #936
+Agent WT6 withdraws $48.00 from JA-1. (-) New Balance: $10542.00 Transaction #937
+Agent WT2 withdraws $84.00 from JA-1. (-) New Balance: $10458.00 Transaction #938
+Agent DT3 deposits $219.00 into JA-2. (+) New Balance: $11969.00 Transaction #939
+Agent WT5 withdraws $17.00 from JA-1. (-) New Balance: $10441.00 Transaction #940
+Agent WT3 withdraws $38.00 from JA-1. (-) New Balance: $10403.00 Transaction #941
+Agent WT1 withdraws $12.00 from JA-2. (-) New Balance: $11957.00 Transaction #942
+Agent WT9 withdraws $50.00 from JA-1. (-) New Balance: $10353.00 Transaction #943
+Agent WT7 withdraws $80.00 from JA-2. (-) New Balance: $11877.00 Transaction #944
+Agent DT3 deposits $239.00 into JA-2. (+) New Balance: $12116.00 Transaction #945
+Agent WT4 withdraws $45.00 from JA-1. (-) New Balance: $10308.00 Transaction #946
+Agent DT4 deposits $272.00 into JA-1. (+) New Balance: $10580.00 Transaction #947
+Agent DT2 deposits $247.00 into JA-1. (+) New Balance: $10827.00 Transaction #948
+Agent WT8 withdraws $83.00 from JA-1. (-) New Balance: $10744.00 Transaction #949
+Agent WT0 withdraws $46.00 from JA-2. (-) New Balance: $12070.00 Transaction #950
+Agent WT2 withdraws $64.00 from JA-2. (-) New Balance: $12006.00 Transaction #951
+Agent WT3 withdraws $32.00 from JA-1. (-) New Balance: $10712.00 Transaction #952
+Agent DT0 deposits $350.00 into JA-2. (+) New Balance: $12356.00 Transaction #953
+Agent DT2 deposits $491.00 into JA-1. (+) New Balance: $11117.00 Transaction #955
+Agent WT4 withdraws $86.00 from JA-1. (-) New Balance: $11117.00 Transaction #954
+* * * Flagged Transaction * * * Agent DT2 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT8 withdraws $89.00 from JA-1. (-) New Balance: $11028.00 Transaction #956
+Agent WT8 withdraws $6.00 from JA-2. (-) New Balance: $12350.00 Transaction #957
+Agent WT0 withdraws $39.00 from JA-1. (-) New Balance: $10989.00 Transaction #958
+Agent WT5 withdraws $6.00 from JA-2. (-) New Balance: $12344.00 Transaction #959
+Agent DT2 deposits $444.00 into JA-1. (+) New Balance: $11433.00 Transaction #960
+Agent WT3 withdraws $72.00 from JA-2. (-) New Balance: $12272.00 Transaction #961
+Agent WT6 withdraws $13.00 from JA-1. (-) New Balance: $11420.00 Transaction #962
+Agent WT7 withdraws $51.00 from JA-2. (-) New Balance: $12221.00 Transaction #963
+Agent WT9 withdraws $88.00 from JA-2. (-) New Balance: $12133.00 Transaction #964
+Agent WT1 withdraws $57.00 from JA-1. (-) New Balance: $11363.00 Transaction #965
+Agent WT0 withdraws $78.00 from JA-1. (-) New Balance: $11285.00 Transaction #966
+Agent WT6 withdraws $23.00 from JA-2. (-) New Balance: $12110.00 Transaction #967
+Agent DT1 deposits $458.00 into JA-2. (+) New Balance: $12568.00 Transaction #968
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT8 withdraws $84.00 from JA-1. (-) New Balance: $11201.00 Transaction #969
+Agent WT9 withdraws $79.00 from JA-2. (-) New Balance: $12489.00 Transaction #970
+Agent DT4 deposits $393.00 into JA-1. (+) New Balance: $11594.00 Transaction #971
+Agent DT1 deposits $252.00 into JA-1. (+) New Balance: $11846.00 Transaction #972
+Agent WT2 withdraws $62.00 from JA-1. (-) New Balance: $11784.00 Transaction #973
+Agent DT2 deposits $203.00 into JA-1. (+) New Balance: $11987.00 Transaction #974
+Agent WT4 withdraws $18.00 from JA-1. (-) New Balance: $11969.00 Transaction #975
+Agent WT1 withdraws $66.00 from JA-1. (-) New Balance: $11903.00 Transaction #976
+Agent DT3 deposits $305.00 into JA-1. (+) New Balance: $12208.00 Transaction #977
+Agent WT7 withdraws $44.00 from JA-2. (-) New Balance: $12445.00 Transaction #978
+Agent WT7 withdraws $7.00 from JA-2. (-) New Balance: $12438.00 Transaction #979
+Agent WT2 withdraws $44.00 from JA-1. (-) New Balance: $12164.00 Transaction #980
+Agent WT9 withdraws $89.00 from JA-1. (-) New Balance: $12075.00 Transaction #981
+Agent WT5 withdraws $31.00 from JA-2. (-) New Balance: $12407.00 Transaction #982
+Agent DT2 deposits $9.00 into JA-2. (+) New Balance: $12416.00 Transaction #983
+Agent DT0 deposits $381.00 into JA-2. (+) New Balance: $12797.00 Transaction #984
+Agent WT6 withdraws $70.00 from JA-1. (-) New Balance: $12005.00 Transaction #986
+Agent WT9 withdraws $26.00 from JA-2. (-) New Balance: $12771.00 Transaction #985
+Agent WT3 withdraws $37.00 from JA-1. (-) New Balance: $11968.00 Transaction #987
+TRANSFER --> Agent TR1 transferring $9.00 from JA-2 to JA-1 -- JA-2 Balance: $12749.00, JA-1 Balance: $11977.00 Transaction #989
+Agent WT0 withdraws $13.00 from JA-2. (-) New Balance: $12749.00 Transaction #988
+Agent WT3 withdraws $81.00 from JA-1. (-) New Balance: $11896.00 Transaction #990
+Agent WT1 withdraws $71.00 from JA-2. (-) New Balance: $12678.00 Transaction #991
+Agent WT4 withdraws $25.00 from JA-2. (-) New Balance: $12653.00 Transaction #992
+Agent WT7 withdraws $36.00 from JA-1. (-) New Balance: $11860.00 Transaction #993
+Agent WT3 withdraws $18.00 from JA-2. (-) New Balance: $12635.00 Transaction #994
+Agent WT8 withdraws $59.00 from JA-1. (-) New Balance: $11801.00 Transaction #995
+Agent DT2 deposits $319.00 into JA-2. (+) New Balance: $12954.00 Transaction #996
+Agent WT6 withdraws $56.00 from JA-2. (-) New Balance: $12898.00 Transaction #997
+Agent WT1 withdraws $81.00 from JA-1. (-) New Balance: $11720.00 Transaction #998
+Agent WT0 withdraws $14.00 from JA-1. (-) New Balance: $11706.00 Transaction #999
+Agent WT4 withdraws $51.00 from JA-2. (-) New Balance: $12847.00 Transaction #1000
+Agent WT3 withdraws $13.00 from JA-1. (-) New Balance: $11693.00 Transaction #1001
+Agent WT7 withdraws $25.00 from JA-2. (-) New Balance: $12822.00 Transaction #1002
+Agent WT2 withdraws $23.00 from JA-1. (-) New Balance: $11670.00 Transaction #1003
+Agent WT9 withdraws $47.00 from JA-2. (-) New Balance: $12775.00 Transaction #1004
+Agent WT5 withdraws $74.00 from JA-1. (-) New Balance: $11596.00 Transaction #1005
+Agent WT1 withdraws $90.00 from JA-1. (-) New Balance: $11506.00 Transaction #1006
+Agent WT6 withdraws $29.00 from JA-2. (-) New Balance: $12746.00 Transaction #1007
+Agent WT4 withdraws $94.00 from JA-1. (-) New Balance: $11412.00 Transaction #1008
+* * * Flagged Transaction * * * Agent WT4 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT4 deposits $291.00 into JA-2. (+) New Balance: $13037.00 Transaction #1009
+Agent DT4 deposits $216.00 into JA-2. (+) New Balance: $13253.00 Transaction #1010
+Agent WT2 withdraws $65.00 from JA-1. (-) New Balance: $11347.00 Transaction #1011
+Agent DT2 deposits $30.00 into JA-1. (+) New Balance: $11377.00 Transaction #1012
+Agent DT1 deposits $561.00 into JA-2. (+) New Balance: $13814.00 Transaction #1013
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT8 withdraws $96.00 from JA-1. (-) New Balance: $11281.00 Transaction #1014
+* * * Flagged Transaction * * * Agent WT8 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT6 withdraws $15.00 from JA-2. (-) New Balance: $13799.00 Transaction #1015
+Agent WT3 withdraws $76.00 from JA-2. (-) New Balance: $13723.00 Transaction #1016
+Agent WT7 withdraws $49.00 from JA-1. (-) New Balance: $11232.00 Transaction #1017
+Agent WT9 withdraws $57.00 from JA-1. (-) New Balance: $11175.00 Transaction #1018
+Agent WT0 withdraws $69.00 from JA-2. (-) New Balance: $13654.00 Transaction #1019
+Agent DT3 deposits $350.00 into JA-2. (+) New Balance: $14004.00 Transaction #1020
+Agent WT1 withdraws $25.00 from JA-2. (-) New Balance: $13979.00 Transaction #1021
+Agent WT5 withdraws $73.00 from JA-2. (-) New Balance: $13906.00 Transaction #1022
+Agent DT0 deposits $586.00 into JA-1. (+) New Balance: $11761.00 Transaction #1023
+* * * Flagged Transaction * * * Agent DT0 made a deposit over $450 USD - See Flagged Transaction Log
+Agent DT1 deposits $159.00 into JA-1. (+) New Balance: $11920.00 Transaction #1024
+Agent DT2 deposits $229.00 into JA-1. (+) New Balance: $12149.00 Transaction #1025
+Agent WT4 withdraws $61.00 from JA-2. (-) New Balance: $13845.00 Transaction #1026
+TRANSFER --> Agent TR0 transferring $19.00 from JA-1 to JA-2 -- JA-1 Balance: $12130.00, JA-2 Balance: $13864.00 Transaction #1027
+Agent WT6 withdraws $40.00 from JA-1. (-) New Balance: $12090.00 Transaction #1028
+Agent WT0 withdraws $63.00 from JA-1. (-) New Balance: $12027.00 Transaction #1029
+Agent WT9 withdraws $64.00 from JA-1. (-) New Balance: $11963.00 Transaction #1030
+Agent DT2 deposits $321.00 into JA-1. (+) New Balance: $12284.00 Transaction #1031
+Agent WT2 withdraws $79.00 from JA-2. (-) New Balance: $13785.00 Transaction #1032
+Agent WT8 withdraws $7.00 from JA-2. (-) New Balance: $14044.00 Transaction #1034
+Agent DT3 deposits $266.00 into JA-2. (+) New Balance: $14051.00 Transaction #1033
+Agent WT6 withdraws $6.00 from JA-2. (-) New Balance: $14038.00 Transaction #1035
+Agent WT3 withdraws $13.00 from JA-2. (-) New Balance: $14025.00 Transaction #1036
+Agent WT7 withdraws $43.00 from JA-2. (-) New Balance: $13982.00 Transaction #1037
+Agent WT1 withdraws $97.00 from JA-2. (-) New Balance: $13885.00 Transaction #1038
+* * * Flagged Transaction * * * Agent WT1 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT0 withdraws $5.00 from JA-2. (-) New Balance: $13880.00 Transaction #1039
+
+****************************************************************************************************
+
+UNITED STATES DEPARTMENT OF TREASURY - BANK AUDIT BEGINNING...
+	The total number of transactions since the last Internal Audit: 1040
+	TREASURY DEPT AUDITOR FINDS CURRENT BALANCE FOR JA-1 TO BE: $12284.00
+	TREASURY DEPT AUDITOR FINDS CURRENT BALANCE FOR JA-2 TO BE: $13880.00
+	Treasury reports the total balance across all accounts is: $26164.00
+UNITED STATES DEPARTMENT OF TREASURY - BANK AUDIT COMPLETED...
+
+****************************************************************************************************
+
+Agent DT4 deposits $474.00 into JA-2. (+) New Balance: $14354.00 Transaction #1041
+****************************************************************************************************
+INTERNAL BANK AUDIT BEGINNING...
+* * * Flagged Transaction * * * Agent DT4 made a deposit over $450 USD - See Flagged Transaction Log
+	The total number of transactions since the last Internal Audit: 1042
+	INTERNAL AUDITOR FINDS CURRENT BALANCE FOR JA-1 TO BE: $12284.00
+	INTERNAL AUDITOR FINDS CURRENT BALANCE FOR JA-2 TO BE: $14354.00
+INTERNAL BANK AUDIT COMPLETED...
+****************************************************************************************************
+Agent WT0 withdraws $89.00 from JA-1. (-) New Balance: $12195.00 Transaction #1043
+Agent DT1 deposits $453.00 into JA-2. (+) New Balance: $14807.00 Transaction #1044
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT6 withdraws $71.00 from JA-2. (-) New Balance: $14736.00 Transaction #1045
+Agent WT9 withdraws $97.00 from JA-2. (-) New Balance: $14639.00 Transaction #1046
+* * * Flagged Transaction * * * Agent WT9 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT4 withdraws $86.00 from JA-2. (-) New Balance: $14553.00 Transaction #1047
+TRANSFER --> Agent TR0 transferring $49.00 from JA-2 to JA-1 -- JA-2 Balance: $14504.00, JA-1 Balance: $12244.00 Transaction #1048
+Agent WT7 withdraws $32.00 from JA-2. (-) New Balance: $14472.00 Transaction #1049
+Agent WT6 withdraws $91.00 from JA-2. (-) New Balance: $14381.00 Transaction #1050
+* * * Flagged Transaction * * * Agent WT6 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT5 withdraws $75.00 from JA-1. (-) New Balance: $12169.00 Transaction #1051
+Agent DT2 deposits $115.00 into JA-2. (+) New Balance: $14496.00 Transaction #1052
+Agent WT5 withdraws $83.00 from JA-1. (-) New Balance: $12086.00 Transaction #1053
+Agent WT8 withdraws $7.00 from JA-2. (-) New Balance: $14489.00 Transaction #1054
+Agent WT2 withdraws $8.00 from JA-2. (-) New Balance: $14481.00 Transaction #1055
+Agent WT1 withdraws $94.00 from JA-1. (-) New Balance: $11992.00 Transaction #1056
+* * * Flagged Transaction * * * Agent WT1 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT8 withdraws $44.00 from JA-2. (-) New Balance: $14437.00 Transaction #1057
+Agent WT7 withdraws $28.00 from JA-1. (-) New Balance: $11964.00 Transaction #1058
+Agent WT9 withdraws $45.00 from JA-1. (-) New Balance: $11919.00 Transaction #1059
+Agent WT6 withdraws $63.00 from JA-1. (-) New Balance: $11856.00 Transaction #1060
+Agent WT3 withdraws $2.00 from JA-1. (-) New Balance: $11854.00 Transaction #1061
+Agent DT0 deposits $83.00 into JA-1. (+) New Balance: $11937.00 Transaction #1062
+Agent WT1 withdraws $82.00 from JA-2. (-) New Balance: $14355.00 Transaction #1064
+Agent WT7 withdraws $96.00 from JA-1. (-) New Balance: $11841.00 Transaction #1063
+* * * Flagged Transaction * * * Agent WT7 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT1 deposits $135.00 into JA-1. (+) New Balance: $11976.00 Transaction #1065
+Agent DT0 deposits $369.00 into JA-2. (+) New Balance: $14724.00 Transaction #1066
+TRANSFER --> Agent TR1 transferring $36.00 from JA-2 to JA-1 -- JA-2 Balance: $14688.00, JA-1 Balance: $12012.00 Transaction #1067
+Agent WT0 withdraws $48.00 from JA-1. (-) New Balance: $11964.00 Transaction #1069
+Agent WT4 withdraws $66.00 from JA-2. (-) New Balance: $14622.00 Transaction #1068
+Agent DT3 deposits $364.00 into JA-2. (+) New Balance: $14986.00 Transaction #1070
+Agent WT3 withdraws $54.00 from JA-2. (-) New Balance: $14932.00 Transaction #1071
+Agent WT6 withdraws $67.00 from JA-1. (-) New Balance: $11897.00 Transaction #1072
+Agent WT5 withdraws $99.00 from JA-1. (-) New Balance: $11798.00 Transaction #1073
+* * * Flagged Transaction * * * Agent WT5 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT4 withdraws $36.00 from JA-2. (-) New Balance: $14896.00 Transaction #1074
+Agent WT2 withdraws $8.00 from JA-2. (-) New Balance: $14888.00 Transaction #1075
+Agent WT8 withdraws $30.00 from JA-1. (-) New Balance: $11768.00 Transaction #1076
+Agent DT3 deposits $5.00 into JA-2. (+) New Balance: $14893.00 Transaction #1077
+Agent WT9 withdraws $2.00 from JA-2. (-) New Balance: $14891.00 Transaction #1078
+Agent WT3 withdraws $87.00 from JA-1. (-) New Balance: $11681.00 Transaction #1079
+Agent WT2 withdraws $7.00 from JA-1. (-) New Balance: $11674.00 Transaction #1080
+Agent WT9 withdraws $25.00 from JA-1. (-) New Balance: $11649.00 Transaction #1081
+Agent WT3 withdraws $16.00 from JA-1. (-) New Balance: $11633.00 Transaction #1082
+Agent WT6 withdraws $2.00 from JA-1. (-) New Balance: $11631.00 Transaction #1083
+Agent WT7 withdraws $11.00 from JA-2. (-) New Balance: $14880.00 Transaction #1084
+Agent WT9 withdraws $88.00 from JA-2. (-) New Balance: $14792.00 Transaction #1085
+Agent DT2 deposits $592.00 into JA-1. (+) New Balance: $12223.00 Transaction #1086
+Agent WT2 withdraws $13.00 from JA-2. (-) New Balance: $14779.00 Transaction #1087
+* * * Flagged Transaction * * * Agent DT2 made a deposit over $450 USD - See Flagged Transaction Log
+Agent DT1 deposits $48.00 into JA-2. (+) New Balance: $14827.00 Transaction #1088
+Agent WT7 withdraws $61.00 from JA-1. (-) New Balance: $12162.00 Transaction #1089
+Agent WT1 withdraws $83.00 from JA-2. (-) New Balance: $14744.00 Transaction #1090
+Agent DT0 deposits $145.00 into JA-1. (+) New Balance: $12307.00 Transaction #1091
+Agent DT4 deposits $117.00 into JA-1. (+) New Balance: $12424.00 Transaction #1092
+Agent WT0 withdraws $24.00 from JA-2. (-) New Balance: $14720.00 Transaction #1093
+Agent WT9 withdraws $37.00 from JA-1. (-) New Balance: $12387.00 Transaction #1094
+Agent WT6 withdraws $85.00 from JA-1. (-) New Balance: $12302.00 Transaction #1095
+Agent DT3 deposits $164.00 into JA-1. (+) New Balance: $12466.00 Transaction #1096
+Agent WT7 withdraws $34.00 from JA-2. (-) New Balance: $14686.00 Transaction #1097
+Agent WT5 withdraws $1.00 from JA-2. (-) New Balance: $14685.00 Transaction #1098
+Agent WT7 withdraws $46.00 from JA-2. (-) New Balance: $14639.00 Transaction #1099
+Agent WT5 withdraws $31.00 from JA-2. (-) New Balance: $14608.00 Transaction #1100
+Agent DT0 deposits $78.00 into JA-1. (+) New Balance: $12544.00 Transaction #1101
+Agent WT4 withdraws $38.00 from JA-2. (-) New Balance: $14570.00 Transaction #1102
+Agent WT3 withdraws $19.00 from JA-2. (-) New Balance: $14551.00 Transaction #1103
+Agent WT1 withdraws $97.00 from JA-2. (-) New Balance: $14454.00 Transaction #1104
+* * * Flagged Transaction * * * Agent WT1 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT1 deposits $526.00 into JA-1. (+) New Balance: $13070.00 Transaction #1105
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT4 withdraws $72.00 from JA-1. (-) New Balance: $12998.00 Transaction #1106
+Agent WT6 withdraws $4.00 from JA-1. (-) New Balance: $12994.00 Transaction #1107
+Agent WT8 withdraws $47.00 from JA-1. (-) New Balance: $12947.00 Transaction #1108
+Agent WT0 withdraws $86.00 from JA-1. (-) New Balance: $12861.00 Transaction #1109
+Agent WT3 withdraws $37.00 from JA-2. (-) New Balance: $14417.00 Transaction #1110
+Agent WT2 withdraws $2.00 from JA-1. (-) New Balance: $12859.00 Transaction #1111
+Agent WT9 withdraws $12.00 from JA-1. (-) New Balance: $12847.00 Transaction #1112
+Agent WT9 withdraws $71.00 from JA-2. (-) New Balance: $14346.00 Transaction #1113
+Agent WT5 withdraws $72.00 from JA-1. (-) New Balance: $12775.00 Transaction #1114
+Agent WT2 withdraws $6.00 from JA-1. (-) New Balance: $12769.00 Transaction #1115
+TRANSFER --> Agent TR0 transferring $38.00 from JA-1 to JA-2 -- JA-1 Balance: $12731.00, JA-2 Balance: $14384.00 Transaction #1116
+Agent DT2 deposits $294.00 into JA-2. (+) New Balance: $14678.00 Transaction #1117
+Agent WT1 withdraws $50.00 from JA-1. (-) New Balance: $12681.00 Transaction #1118
+Agent WT9 withdraws $34.00 from JA-1. (-) New Balance: $12647.00 Transaction #1119
+Agent WT7 withdraws $98.00 from JA-2. (-) New Balance: $14580.00 Transaction #1120
+* * * Flagged Transaction * * * Agent WT7 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent WT4 withdraws $40.00 from JA-1. (-) New Balance: $12607.00 Transaction #1121
+Agent WT6 withdraws $28.00 from JA-2. (-) New Balance: $14552.00 Transaction #1122
+Agent WT6 withdraws $31.00 from JA-1. (-) New Balance: $12576.00 Transaction #1123
+Agent WT8 withdraws $66.00 from JA-2. (-) New Balance: $14486.00 Transaction #1124
+Agent WT9 withdraws $47.00 from JA-2. (-) New Balance: $14439.00 Transaction #1125
+Agent WT4 withdraws $58.00 from JA-2. (-) New Balance: $14381.00 Transaction #1126
+Agent WT0 withdraws $37.00 from JA-1. (-) New Balance: $12539.00 Transaction #1127
+Agent WT2 withdraws $52.00 from JA-1. (-) New Balance: $12487.00 Transaction #1128
+Agent WT7 withdraws $65.00 from JA-1. (-) New Balance: $12422.00 Transaction #1129
+Agent WT2 withdraws $33.00 from JA-1. (-) New Balance: $12389.00 Transaction #1130
+TRANSFER --> Agent TR1 transferring $8.00 from JA-2 to JA-1 -- JA-2 Balance: $14373.00, JA-1 Balance: $12397.00 Transaction #1131
+Agent WT8 withdraws $94.00 from JA-2. (-) New Balance: $14279.00 Transaction #1132
+* * * Flagged Transaction * * * Agent WT8 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT0 deposits $332.00 into JA-2. (+) New Balance: $14611.00 Transaction #1133
+Agent DT2 deposits $425.00 into JA-1. (+) New Balance: $12822.00 Transaction #1134
+Agent WT6 withdraws $75.00 from JA-2. (-) New Balance: $14536.00 Transaction #1135
+Agent WT3 withdraws $42.00 from JA-1. (-) New Balance: $12780.00 Transaction #1136
+Agent WT1 withdraws $47.00 from JA-1. (-) New Balance: $12733.00 Transaction #1137
+Agent DT4 deposits $246.00 into JA-2. (+) New Balance: $14782.00 Transaction #1138
+Agent DT1 deposits $571.00 into JA-2. (+) New Balance: $15353.00 Transaction #1139
+* * * Flagged Transaction * * * Agent DT1 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT5 withdraws $9.00 from JA-2. (-) New Balance: $15344.00 Transaction #1140
+Agent WT4 withdraws $67.00 from JA-1. (-) New Balance: $12666.00 Transaction #1141
+TRANSFER --> Agent TR0 transferring $33.00 from JA-1 to JA-2 -- JA-1 Balance: $12633.00, JA-2 Balance: $15377.00 Transaction #1142
+Agent WT2 withdraws $10.00 from JA-2. (-) New Balance: $15367.00 Transaction #1143
+Agent WT9 withdraws $77.00 from JA-2. (-) New Balance: $15290.00 Transaction #1144
+Agent WT7 withdraws $83.00 from JA-1. (-) New Balance: $12550.00 Transaction #1145
+Agent DT3 deposits $161.00 into JA-1. (+) New Balance: $12711.00 Transaction #1146
+Agent WT0 withdraws $95.00 from JA-1. (-) New Balance: $12616.00 Transaction #1147
+* * * Flagged Transaction * * * Agent WT0 made a withdrawal over $90 USD - See Flagged Transaction Log
+Agent DT4 deposits $135.00 into JA-2. (+) New Balance: $15425.00 Transaction #1148
+Agent WT1 withdraws $73.00 from JA-1. (-) New Balance: $12543.00 Transaction #1149
+TRANSFER --> Agent TR0 transferring $38.00 from JA-2 to JA-1 -- JA-2 Balance: $15387.00, JA-1 Balance: $12581.00 Transaction #1150
+Agent WT7 withdraws $9.00 from JA-1. (-) New Balance: $12572.00 Transaction #1151
+Agent WT8 withdraws $33.00 from JA-2. (-) New Balance: $15354.00 Transaction #1152
+Agent WT2 withdraws $21.00 from JA-1. (-) New Balance: $12551.00 Transaction #1153
+Agent WT9 withdraws $89.00 from JA-2. (-) New Balance: $15265.00 Transaction #1154
+Agent WT4 withdraws $60.00 from JA-2. (-) New Balance: $15205.00 Transaction #1155
+Agent WT4 withdraws $65.00 from JA-2. (-) New Balance: $15140.00 Transaction #1156
+Agent WT6 withdraws $46.00 from JA-1. (-) New Balance: $12505.00 Transaction #1157
+Agent WT5 withdraws $83.00 from JA-2. (-) New Balance: $15057.00 Transaction #1158
+Agent WT1 withdraws $86.00 from JA-2. (-) New Balance: $14971.00 Transaction #1159
+Agent DT3 deposits $481.00 into JA-1. (+) New Balance: $12986.00 Transaction #1160
+* * * Flagged Transaction * * * Agent DT3 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT3 withdraws $22.00 from JA-2. (-) New Balance: $14949.00 Transaction #1161
+Agent DT0 deposits $22.00 into JA-2. (+) New Balance: $14971.00 Transaction #1162
+Agent WT0 withdraws $49.00 from JA-2. (-) New Balance: $14922.00 Transaction #1163
+Agent DT4 deposits $131.00 into JA-2. (+) New Balance: $15053.00 Transaction #1164
+Agent WT6 withdraws $51.00 from JA-1. (-) New Balance: $12935.00 Transaction #1165
+Agent WT1 withdraws $61.00 from JA-1. (-) New Balance: $12874.00 Transaction #1166
+Agent WT8 withdraws $88.00 from JA-2. (-) New Balance: $14965.00 Transaction #1167
+Agent WT9 withdraws $90.00 from JA-1. (-) New Balance: $12784.00 Transaction #1168
+Agent WT0 withdraws $35.00 from JA-1. (-) New Balance: $12749.00 Transaction #1169
+Agent DT4 deposits $533.00 into JA-1. (+) New Balance: $13282.00 Transaction #1170
+* * * Flagged Transaction * * * Agent DT4 made a deposit over $450 USD - See Flagged Transaction Log
+Agent WT1 withdraws $55.00 from JA-1. (-) New Balance: $13227.00 Transaction #1171
+Agent DT0 deposits $519.00 into JA-2. (+) New Balance: $15484.00 Transaction #1172
+* * * Flagged Transaction * * * Agent DT0 made a deposit over $450 USD - See Flagged Transaction Log
+Agent DT4 deposits $132.00 into JA-2. (+) New Balance: $15616.00 Transaction #1173
+TRANSFER --> Agent TR1 transferring $23.00 from JA-1 to JA-2 -- JA-1 Balance: $13204.00, JA-2 Balance: $15639.00 Transaction #1174
+Agent WT2 withdraws $9.00 from JA-1. (-) New Balance: $13195.00 Transaction #1175
+Agent WT3 withdraws $82.00 from JA-1. (-) New Balance: $13113.00 Transaction #1176
+Agent WT0 withdraws $83.00 from JA-2. (-) New Balance: $15556.00 Transaction #1177
+Agent WT1 withdraws $74.00 from JA-2. (-) New Balance: $15482.00 Transaction #1178
+Agent WT4 withdraws $29.00 from JA-2. (-) New Balance: $15453.00 Transaction #1179
+Agent DT1 deposits $326.00 into JA-1. (+) New Balance: $13439.00 Transaction #1180
+Agent WT5 withdraws $67.00 from JA-2. (-) New Balance: $15386.00 Transaction #1181
+Agent WT6 withdraws $35.00 from JA-1. (-) New Balance: $13404.00 Transaction #1182
+Agent WT9 withdraws $88.00 from JA-1. (-) New Balance: $13316.00 Transaction #1183
+Agent WT7 withdraws $69.00 from JA-2. (-) New Balance: $15317.00 Transaction #1184
+Agent WT3 withdraws $37.00 from JA-2. (-) New Balance: $15280.00 Transaction #1185
+Agent WT4 withdraws $11.00 from JA-1. (-) New Balance: $13305.00 Transaction #1186
+Agent WT6 withdraws $82.00 from JA-1. (-) New Balance: $13223.00 Transaction #1187
+Agent WT1 withdraws $52.00 from JA-2. (-) New Balance: $15228.00 Transaction #1188
+Agent WT3 withdraws $5.00 from JA-2. (-) New Balance: $15223.00 Transaction #1189
+Agent DT2 deposits $157.00 into JA-2. (+) New Balance: $15380.00 Transaction #1190
+Agent WT0 withdraws $67.00 from JA-1. (-) New Balance: $13156.00 Transaction #1191
+Agent WT2 withdraws $23.00 from JA-1. (-) New Balance: $13133.00 Transaction #1192
+Agent WT1 withdraws $40.00 from JA-2. (-) New Balance: $15340.00 Transaction #1193
+Agent WT8 withdraws $40.00 from JA-1. (-) New Balance: $13093.00 Transaction #1194
+Agent WT4 withdraws $25.00 from JA-2. (-) New Balance: $15315.00 Transaction #1195
